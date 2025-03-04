@@ -1,0 +1,472 @@
+img.mfp-img {
+  width: auto;
+max-height: 412px !important;
+  height: auto;
+  display: block;
+  line-height: 0;
+  box-sizing: border-box;
+  padding: 40px 0 40px;
+  margin: 0 auto;
+}
+
+
+.video-gallery {
+position: relative;
+margin: 0 auto;
+max-width: 1000px;
+text-align: center;
+}
+
+.video-gallery .gallery-item {
+float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 100%;
+  /* max-width: 580px; */
+  height: 165px !important;
+  width: 48%;
+  background: #000;
+  cursor: pointer;
+  margin-bottom: 10px;
+  position: relative;
+  border-radius: 5px
+}
+
+.video-gallery .gallery-item img {
+
+width: 105%;
+
+}
+
+.video-gallery .gallery-item .gallery-item-caption {
+padding: 2em;
+color: #fff;
+text-transform: uppercase;
+font-size: 1.25em;
+}
+
+.video-gallery .gallery-item .gallery-item-caption,
+.video-gallery .gallery-item .gallery-item-caption > a {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.video-gallery .gallery-item h2 {
+font-weight: 300;
+overflow: hidden;
+padding: 0.5em 0;
+}
+
+
+.video-gallery .gallery-item h2,
+.video-gallery .gallery-item p {
+position: relative;
+margin: 0;
+z-index: 10;
+}
+
+.video-gallery .gallery-item p {
+letter-spacing: 1px;
+font-size: 68%;
+
+padding: 1em 0;
+opacity: 0;
+transition: opacity 0.35s, transform 0.35s;
+transform: translate3d(10%, 0, 0);
+}
+
+.video-gallery .gallery-item:hover img {
+opacity: .3;
+transform: translate3d(0, 0, 0);
+
+}
+
+.video-gallery .gallery-item .gallery-item-caption {
+/* text-align: left;*/
+}
+
+.video-gallery .gallery-item h2::after {
+content: "";
+position: absolute;
+bottom: 0;
+left: 0;
+width: 15%;
+height: 1px;
+background: #fff;
+
+transition: transform 0.3s;
+transform: translate3d(-100%, 0, 0);
+}
+
+.video-gallery .gallery-item:hover h2::after {
+transform: translate3d(0, 0, 0);
+}
+
+.video-gallery .gallery-item:hover p {
+opacity: 1;
+transform: translate3d(0, 0, 0);
+}
+
+@media screen and (max-width: 50em) {
+.video-gallery .gallery-item {
+  display: inline-block;
+  float: none;
+  margin: 10px auto;
+  width: 100%;
+}
+.video-gallery .gallery-item .gallery-item-caption, .video-gallery .gallery-item .gallery-item-caption > a {
+  position: absolute;
+  top: 0;
+  left: 68px;
+  width: 52%;
+  /* height: 7%; */
+}
+}
+.music-gallery {
+position: relative;
+margin: 0 auto;
+max-width: 1000px;
+text-align: center;
+}
+
+.music-gallery .gallery-item {
+float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 100%;
+  /* max-width: 580px; */
+  height: 165px !important;
+  width: 48%;
+  background: #000;
+  cursor: pointer;
+  margin-bottom: 10px;
+  position: relative;
+  border-radius: 5px
+}
+
+.music-gallery .gallery-item img {
+
+width: 105%;
+
+}
+
+.music-gallery .gallery-item .gallery-item-caption {
+padding: 2em;
+color: #fff;
+text-transform: uppercase;
+font-size: 1.25em;
+}
+
+.music-gallery .gallery-item .gallery-item-caption,
+.music-gallery .gallery-item .gallery-item-caption > a {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.music-gallery .gallery-item h2 {
+font-weight: 300;
+overflow: hidden;
+padding: 0.5em 0;
+}
+
+
+.music-gallery .gallery-item h2,
+.music-gallery .gallery-item p {
+position: relative;
+margin: 0;
+z-index: 10;
+}
+
+.music-gallery .gallery-item p {
+letter-spacing: 1px;
+font-size: 68%;
+
+padding: 1em 0;
+opacity: 0;
+transition: opacity 0.35s, transform 0.35s;
+transform: translate3d(10%, 0, 0);
+}
+
+.music-gallery .gallery-item:hover img {
+opacity: .3;
+transform: translate3d(0, 0, 0);
+
+}
+
+.music-gallery .gallery-item .gallery-item-caption {
+text-align: left;
+}
+
+.music-gallery .gallery-item h2::after {
+content: "";
+position: absolute;
+bottom: 0;
+left: 0;
+width: 15%;
+height: 1px;
+background: #fff;
+
+transition: transform 0.3s;
+transform: translate3d(-100%, 0, 0);
+}
+
+.music-gallery .gallery-item:hover h2::after {
+transform: translate3d(0, 0, 0);
+}
+
+.music-gallery .gallery-item:hover p {
+opacity: 1;
+transform: translate3d(0, 0, 0);
+}
+
+@media screen and (max-width: 50em) {
+.music-gallery .gallery-item {
+  display: inline-block;
+  float: none;
+  margin: 10px auto;
+  width: 100%;
+}
+.music-gallery .gallery-item .gallery-item-caption, .video-gallery .gallery-item .gallery-item-caption > a {
+  position: absolute;
+  top: 0;
+  left: 68px;
+  width: 52%;
+  /* height: 7%; */
+}
+}
+.Cover-gallery {
+position: relative;
+margin: 0 auto;
+max-width: 1000px;
+text-align: center;
+}
+
+.Cover-gallery .gallery-item {
+float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 100%;
+  /* max-width: 580px; */
+  height: 165px !important;
+  width: 48%;
+  background: #000;
+  cursor: pointer;
+  margin-bottom: 10px;
+  position: relative;
+  border-radius: 5px
+}
+
+.Cover-gallery .gallery-item img {
+
+width: 105%;
+
+}
+
+.Cover-gallery .gallery-item .gallery-item-caption {
+padding: 2em;
+color: #fff;
+text-transform: uppercase;
+font-size: 1.25em;
+}
+
+.Cover-gallery .gallery-item .gallery-item-caption,
+.Cover-gallery .gallery-item .gallery-item-caption > a {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.Cover-gallery .gallery-item h2 {
+font-weight: 300;
+overflow: hidden;
+padding: 0.5em 0;
+}
+
+
+.Cover-gallery .gallery-item h2,
+.Cover-gallery .gallery-item p {
+position: relative;
+margin: 0;
+z-index: 10;
+}
+
+.Cover-gallery .gallery-item p {
+letter-spacing: 1px;
+font-size: 68%;
+
+padding: 1em 0;
+opacity: 0;
+transition: opacity 0.35s, transform 0.35s;
+transform: translate3d(10%, 0, 0);
+}
+
+.Cover-gallery .gallery-item:hover img {
+opacity: .3;
+transform: translate3d(0, 0, 0);
+
+}
+
+.Cover-gallery .gallery-item .gallery-item-caption {
+text-align: left;
+}
+
+.Cover-gallery .gallery-item h2::after {
+content: "";
+position: absolute;
+bottom: 0;
+left: 0;
+width: 15%;
+height: 1px;
+background: #fff;
+
+transition: transform 0.3s;
+transform: translate3d(-100%, 0, 0);
+}
+
+.Cover-gallery .gallery-item:hover h2::after {
+transform: translate3d(0, 0, 0);
+}
+
+.Cover-gallery .gallery-item:hover p {
+opacity: 1;
+transform: translate3d(0, 0, 0);
+}
+
+@media screen and (max-width: 50em) {
+.Cover-gallery .gallery-item {
+  display: inline-block;
+  float: none;
+  margin: 10px auto;
+  width: 100%;
+}
+ .Cover-gallery .gallery-item .gallery-item-caption, .video-gallery .gallery-item .gallery-item-caption > a {
+  position: absolute;
+  top: 0;
+  left: 68px;
+  width: 52%;
+  /* height: 7%; */
+}
+}
+.Reels-gallery {
+position: relative;
+margin: 0 auto;
+max-width: 1000px;
+text-align: center;
+}
+
+.Reels-gallery .gallery-item {
+float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 100%;
+  /* max-width: 580px; */
+  max-height: 162px;
+  width: 48%;
+  background: #000;
+  cursor: pointer;
+  margin-bottom: 10px;
+  position: relative;
+  border-radius: 5px
+}
+
+.Reels-gallery .gallery-item img {
+
+width: 105%;
+
+}
+
+.Reels-gallery .gallery-item .gallery-item-caption {
+padding: 2em;
+color: #fff;
+text-transform: uppercase;
+font-size: 1.25em;
+}
+
+.Reels-gallery .gallery-item .gallery-item-caption,
+.Reels-gallery .gallery-item .gallery-item-caption > a {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.Reels-gallery .gallery-item h2 {
+font-weight: 300;
+overflow: hidden;
+padding: 0.5em 0;
+}
+
+
+.Reels-gallery .gallery-item h2,
+.Reels-gallery .gallery-item p {
+position: relative;
+margin: 0;
+z-index: 10;
+}
+
+.Reels-gallery .gallery-item p {
+letter-spacing: 1px;
+font-size: 68%;
+
+padding: 1em 0;
+opacity: 0;
+transition: opacity 0.35s, transform 0.35s;
+transform: translate3d(10%, 0, 0);
+}
+
+.Reels-gallery .gallery-item:hover img {
+opacity: .3;
+transform: translate3d(0, 0, 0);
+
+}
+
+.Reels-gallery .gallery-item .gallery-item-caption {
+text-align: left;
+}
+
+.Reels-gallery .gallery-item h2::after {
+content: "";
+position: absolute;
+bottom: 0;
+left: 0;
+width: 15%;
+height: 1px;
+background: #fff;
+
+transition: transform 0.3s;
+transform: translate3d(-100%, 0, 0);
+}
+
+.Reels-gallery .gallery-item:hover h2::after {
+transform: translate3d(0, 0, 0);
+}
+
+.Reels-gallery .gallery-item:hover p {
+opacity: 1;
+transform: translate3d(0, 0, 0);
+}
+
+@media screen and (max-width: 50em) {
+.Reels-gallery .gallery-item {
+  display: inline-block;
+  float: none;
+  margin: 10px auto;
+  width: 100%;
+}
+.Reels-gallery .gallery-item .gallery-item-caption, .video-gallery .gallery-item .gallery-item-caption > a {
+  position: absolute;
+  top: 0;
+  left: 68px;
+  width: 52%;
+  /* height: 7%; */
+}
+}

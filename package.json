@@ -1,0 +1,16 @@
+{
+  "name": "letsfame-website",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "author": "Angayarkanni Balasubramanian",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "gulp": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.32"
+  }
+}

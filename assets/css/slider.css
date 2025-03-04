@@ -1,0 +1,240 @@
+.lets-slider{
+  position:relative;
+}
+.lets-slider > .item{
+  position: absolute;
+  opacity: 0;
+  z-index: 0;
+  width:100%;
+  height: 100%;
+  top:0;
+  left:0;
+  overflow:hidden;
+}
+.lets-slider > .item.active{
+  opacity: 1;
+  z-index:10;
+}
+.lets-slider .slider-control{
+  color: rgba(150,150,150,.6);
+  position:absolute;
+  top:calc(50% - 30px);
+  height:60px;
+  width:60px;
+  line-height:60px;
+  z-index: 100;
+  text-align:center;
+  cursor: pointer;
+  opacity: .5;
+}
+.lets-slider .slider-control:hover{
+  opacity: 1;
+}
+.lets-slider .slider-control.next{
+  right:0;
+}
+.lets-slider .slider-control.prev{
+  left:0;
+}
+.lets-slider .slider-nav{
+  width:100%;
+  height: 40px;
+  position: absolute;
+  z-index: 100;
+  text-align:center;
+  bottom:0;
+  left:0;
+}
+.lets-slider .slider-nav a{
+  display: inline-block;
+  margin:5px;
+  width:15px;
+  height:15px;
+  background: rgba(150,150,150,.6);
+  overflow: hidden;
+  border-radius:50%;
+  opacity: .5;
+}
+.lets-slider .slider-nav a:hover{
+  opacity: .9;
+}
+.lets-slider .slider-nav a.active{
+  opacity: 1;
+}
+
+
+/* For  Demo Only. */
+/* The code below is not needed for slideshow to work. */
+
+/*  Animations  */ 
+.lets-slider .item.active .item-content {
+  animation-name: fadeUp;
+  animation-duration: 0.5s;
+}
+.lets-slider .item.active .item-content p {
+  animation-name: fadeUp;
+  animation-duration: .8s;
+}
+
+@keyframes fadeUp {
+  0% {
+    margin-top: 60px;
+    opacity: 0;
+  }
+  100% {
+    margin-top: 0;
+    opacity: 1;
+  }
+}
+
+.lets-slider {
+  width: 450px;
+  height:100px;
+  margin: 0px auto;
+  color: #000;
+  border: 2px solid;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image: linear-gradient(180deg,#f3c060,#000000) 2;
+  border-radius: 5px;
+  background: none;
+}
+.lets-slider > .item {
+  text-align: center;
+}
+.lets-slider > .item .item-content {
+  padding: 5px;
+}
+
+.lets-slider h2 {font-weight: 700; font-size: 50px; text-align: center; color:#ffffff; font-family: 'Montserrat SemiBold'; margin-bottom:0px;}
+.lets-slider p {font-weight: 400; font-size: 18px; text-align: center; color:#fff; font-family: 'Montserrat Regular';}
+
+/* new let-slider */
+
+.let-slider{
+  position:relative;
+}
+.let-slider > .item{
+  position: absolute;
+  opacity: 0;
+  z-index: 0;
+  width:100%;
+  height: 100%;
+  top:0;
+  left:0;
+  overflow:hidden;
+}
+.let-slider > .item.active{
+  opacity: 1;
+  z-index:10;
+}
+.let-slider .slider-control{
+  color: rgba(150,150,150,.6);
+  position:absolute;
+  top:calc(50% - 30px);
+  height:60px;
+  width:60px;
+  line-height:60px;
+  z-index: 100;
+  text-align:center;
+  cursor: pointer;
+  opacity: .5;
+}
+.let-slider .slider-control:hover{
+  opacity: 1;
+}
+.let-slider .slider-control.next{
+  right:0;
+}
+.let-slider .slider-control.prev{
+  left:0;
+}
+.let-slider .slider-nav{
+  width:100%;
+  height: 40px;
+  position: absolute;
+  z-index: 100;
+  text-align:center;
+  bottom:0;
+  left:0;
+}
+.let-slider .slider-nav a{
+  display: inline-block;
+  margin:5px;
+  width:15px;
+  height:15px;
+  background: rgba(150,150,150,.6);
+  overflow: hidden;
+  border-radius:50%;
+  opacity: .5;
+}
+.let-slider .slider-nav a:hover{
+  opacity: .9;
+}
+.let-slider .slider-nav a.active{
+  opacity: 1;
+}
+
+
+/* For  Demo Only. */
+/* The code below is not needed for slideshow to work. */
+
+/*  Animations  */ 
+.let-slider .item.active .item-content {
+  animation-name: fadeUp;
+  animation-duration: 0.5s;
+}
+.let-slider .item.active .item-content p {
+  animation-name: fadeUp;
+  animation-duration: .8s;
+}
+
+@keyframes fadeUp {
+  0% {
+    margin-top: 60px;
+    opacity: 0;
+  }
+  100% {
+    margin-top: 0;
+    opacity: 1;
+  }
+}
+
+.let-slider {
+  width: 90%;
+  height:207px;
+  margin: 0px auto;
+  color: #000;
+  border: 2px solid;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-image: linear-gradient(180deg,#f3c060,#000000) 2;
+  border-radius: 5px;
+  background: none;
+}
+.let-slider > .item {
+  text-align: center;
+}
+.let-slider > .item .item-content {
+  padding: 7px;
+}
+
+.let-slider h2 {font-weight: 700; font-size: 50px; text-align: left; color:#ffffff; font-family: 'Montserrat SemiBold'; margin-bottom:0px;}
+.let-slider p {font-weight: 400; font-size: 18px; text-align: left; color:#fff; font-family: 'Montserrat Regular';}
+.let-slider.animation-box{margin-top: 20px !important;}
+.mbl-txt-clr{color: #fff;}
+@-webkit-keyframes colorchange {
+  0%, 23% {
+    color: #000;
+  }
+
+  29%, 100% {
+    color: #fff;
+  }
+}

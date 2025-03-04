@@ -1,0 +1,26 @@
+ 
+
+@keyframes featuredscroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-250px * 7));
+  }
+}
+.featured-slider {
+  height: auto;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  width: auto;background: transparent !important;
+}
+.featured-slider .slide-track {
+  animation: featuredscroll 40s linear infinite;
+  display: flex;
+  width: calc(250px * 14);
+}
+/*.featured-slider .slide img{
+  height: 75px;
+  width: 250px;
+}*/

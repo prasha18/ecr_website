@@ -1,0 +1,334 @@
+.how-its-work .btn-p {
+    padding: 0.5rem 0.5rem;
+}
+
+.how-its-work .posi-ab-l {
+    position: absolute;
+    width: 600px;
+    left: 0px;
+    top: 0;
+}
+
+.how-its-work .posi-ab-r {
+    position: absolute;
+    width: 600px;
+    right: 0px;
+    top: 0;
+}
+
+.how-its-work .posi-ab-r-end {
+    position: absolute;
+    width: 600px;
+    right: 0px;
+    top: 28px;
+}
+
+.how-its-work .border-conn-l {
+    border: 1px solid #F3C060;
+    height: 378px;
+    margin-top: 30px;
+}
+
+.how-its-work .border-conn-r {
+    border: 1px solid #F3C060;
+    height: 378px;
+    margin-top: 30px;
+}
+
+.how-its-work .border-conn-r.mt-conn-6 {
+    margin-top: 10px !important;
+    height: 392px !important;
+}
+
+.how-its-work .img-conn-l {
+    position: absolute;
+    width: 210px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.how-its-work .img-conn-r {
+    position: absolute;
+    width: 210px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.how-its-work p,
+.how-its-work .btn-p {
+    font-size: 16px;
+    line-height: 32px;
+    font-family: 'Montserrat Bold';
+	line-height:27px;
+}
+
+@media only screen and (max-width:600px) {
+    .how-its-work .border-conn-l {
+        height: auto;
+        margin: auto;
+    }
+
+    .how-its-work .border-conn-r {
+        height: auto;
+        margin: auto;
+    }
+
+    .how-its-work .border-conn-r.mt-conn-6 {
+        margin: auto !important;
+        height: auto !important;
+    }
+
+    .how-its-work .posi-ab-l {
+        position: inherit;
+        width: auto;
+        top: 0px;
+    }
+
+    .how-its-work .posi-ab-r,
+    .how-its-work .posi-ab-r-end {
+        position: inherit;
+        width: auto;
+        top: 0px;
+    }
+
+    .how-its-work .pe-5 {
+        padding-right: unset !important;
+    }
+
+    .how-its-work .ps-5 {
+        padding-left: unset !important;
+    }
+
+    .how-its-work .img-conn-r {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .img-conn-l {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .pt-4 {
+        padding-top: 2rem !important;
+    }
+
+    .how-its-work .text-center.pt-4 {
+        padding-top: 1.5rem !important;
+    }
+
+}
+
+@media only screen and (min-width:601px) and (max-width:991px) {
+    .how-its-work .border-conn-l {
+        height: auto;
+        margin: auto;
+    }
+
+    .how-its-work .border-conn-r {
+        height: auto;
+        margin: auto;
+    }
+
+    .how-its-work .border-conn-r.mt-conn-6 {
+        margin: auto !important;
+        height: auto !important;
+    }
+
+    .how-its-work .posi-ab-l {
+        position: inherit;
+        width: auto;
+        top: 0px;
+    }
+
+    .how-its-work .posi-ab-r,
+    .how-its-work .posi-ab-r-end {
+        position: inherit;
+        width: auto;
+        top: 0px;
+    }
+
+    .how-its-work .pe-5 {
+        padding-right: unset !important;
+    }
+
+    .how-its-work .ps-5 {
+        padding-left: unset !important;
+    }
+
+    .how-its-work .img-conn-r {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .img-conn-l {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .pt-4 {
+        padding-top: 2rem !important;
+    }
+
+    .how-its-work .text-center.pt-4 {
+        padding-top: 1.5rem !important;
+    }
+
+}
+
+@media only screen and (min-width:992px) and (max-width:1279px) {
+    .how-its-work .border-conn-l {
+        height: 300px;
+        margin-top: 0;
+    }
+
+    .how-its-work .border-conn-r {
+        height: 300px;
+        margin-top: 0;
+    }
+
+    .how-its-work .border-conn-r.mt-conn-6 {
+        margin: auto !important;
+        height: 300px !important;
+    }
+
+    .how-its-work .posi-ab-l {
+        position: absolute;
+        width: 460px;
+        top: 0;
+    }
+
+    .how-its-work .posi-ab-r {
+        position: absolute;
+        width: 460px;
+        top: 0;
+    }
+
+    .how-its-work .posi-ab-r-end {
+        position: absolute;
+        width: 460px;
+        top: 30px;
+    }
+
+    .how-its-work .pe-5 {
+        padding-right: unset !important;
+    }
+
+    .how-its-work .ps-5 {
+        padding-left: unset !important;
+    }
+
+    .how-its-work .img-conn-r {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .img-conn-l {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .pt-4 {
+        padding-top: 2rem !important;
+    }
+
+    .how-its-work .text-center.pt-4 {
+        padding-top: 1.5rem !important;
+    }
+
+}
+
+@media only screen and (min-width:1280px) and (max-width:1399px) {
+    .how-its-work .border-conn-l {
+        height: 314px;
+        margin-top: 24px;
+        padding-right: 20px;
+    }
+
+    .how-its-work .border-conn-r {
+        height: 314px;
+        margin-top: 24px;
+        padding-left: 20px;
+        padding-right: auto;
+    }
+
+    .how-its-work .border-conn-r.mt-conn-6 {
+        margin-top: 8px !important;
+        height: 330px !important;
+    }
+
+    .how-its-work .posi-ab-l {
+        position: absolute;
+        width: 520px;
+        top: 0;
+    }
+
+    .how-its-work .posi-ab-r {
+        position: absolute;
+        width: 520px;
+        top: 0;
+    }
+
+    .how-its-work .posi-ab-r-end {
+        position: absolute;
+        width: 520px;
+        top: 30px;
+    }
+
+    .how-its-work .pe-5 {
+        padding-right: unset !important;
+    }
+
+    .how-its-work .ps-5 {
+        padding-left: unset !important;
+    }
+
+    .how-its-work .img-conn-r {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .img-conn-l {
+        width: 170px;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .how-its-work .pt-4 {
+        padding-top: 2rem !important;
+    }
+
+    .how-its-work .text-center.pt-4 {
+        padding-top: 1.5rem !important;
+    }
+
+}

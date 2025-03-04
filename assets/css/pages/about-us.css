@@ -1,0 +1,51 @@
+.how-its-about .bg-clr{background: #EAEAEA;}
+.how-its-about #aboutushero{ background: url('../../../assets/img/aboutus/bg-about.webp') no-repeat;background-position: top center;background-size: cover; height: 580px;margin-top: 75px;}
+.how-its-about #aboutushero-1{ background: url('../../../assets/img/aboutus/bg-about-1.webp') no-repeat;background-position: top center;background-size: cover; height: 580px;}
+.how-its-about #aboutushero-2{ background: url('../../../assets/img/aboutus/bg-about-2.webp') no-repeat;background-position: top center;background-size: cover; height: 580px;}
+.how-its-about #aboutushero-3{ background: url('../../../assets/img/aboutus/bg-about-3.webp') no-repeat;background-position: top center;background-size: cover; height: 580px;}
+.how-its-about .txt-p {color: #000;color: #000;font: 30px/44px 'Montserrat Medium',sans-serif;}
+.how-its-about .txt-small-p {color: #000;font:20px/34px 'Montserrat Regular';}
+.how-its-about .btn-p { font-size: 16px;line-height: 26px;font-family: 'Montserrat SemiBold',sans-serif;padding: 0.5rem 0.5rem; }   
+.how-its-about .bg-h-only{ background: linear-gradient(to right, #EAEAEA 50%, #fff 50%);padding: 3rem 0 !important; }
+.how-its-about .bg-h-only-1{background: linear-gradient(to bottom right, #D4995C, #F2CA51);}  
+.how-its-about h1 pre{font-size: 3.8rem !important;font-family: 'Montserrat Bold';overflow: hidden;}
+.how-its-about .normal-btn-dark:hover, .normal-btn-dark:focus:hover {color: #000;background: none;border: 1px solid #000;} 
+.how-its-about .normal-btn-dark{ font: 16px/40px 'Montserrat Medium',sans-serif;background: #000; border-radius: 4px; border: 1px solid #000;cursor: pointer;text-align: center;color: #f3c060; width: 250px; margin: 0 auto;}
+.how-its-about .qute h1 {color: #000;letter-spacing: 1px;opacity: 1; font-size: 2rem;}
+.how-its-about .qute{width: 90%;text-align: center;}
+.how-its-about .border-clr{border: 0.15rem solid #F3C060;padding: 2.8rem 1.2rem;text-align: center;}
+.how-its-about .joinpara h2{color:#181818 !important;}
+.how-its-about .small-about-logo{position: absolute;top: 8%;left: 2.5%;width: 5%;}
+.how-its-about .pre-tag {display: none} 
+.how-its-about h1 pre{display: block;} 
+.how-its-about .main-h1 { width: 90%;}
+.how-its-about .sec-py-5{padding: 4.5rem 0 6rem 0 !important;}
+.how-its-about .px-lg-5 {padding-right: 4rem !important;padding-left: 4rem !important;}
+.how-its-about .font-family{font-family:'Montserrat SemiBold' !important }
+
+@media only screen and (max-width:600px){ 
+.how-its-about .bg-h-only-1 {background: linear-gradient(to bottom right, #D4995C, #F2CA51);position: initial;height: auto;padding: 0.5rem 0 1rem;} 
+.how-its-about #aboutushero, .how-its-about #aboutushero-1, .how-its-about #aboutushero-2, .how-its-about #aboutushero-3 {background-size: cover;height: 200px;}
+.how-its-about iframe {border: 0;height: auto;}
+.how-its-about h1 pre{display: none;}
+.how-its-about .pre-tag {display: block !important;}
+.how-its-about h1.main-h1 { width: 100%; font: 32px/36px 'Montserrat SemiBold',sans-serif !important; }
+.how-its-about .txt-p {font: 19px/32px 'Montserrat Semibold',sans-serif !important;}
+.how-its-about .px-lg-5 {padding-right: 1rem !important;padding-left: 1rem !important;}
+.how-its-about .sec-py-5{padding: 0rem 0 1rem 0 !important;}
+.how-its-about .bg-h-only {
+  background: linear-gradient(to bottom, #EAEAEA 40%, #fff 60%);
+}
+.how-its-about .main-h1 {
+  width: 100%;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 884px){
+.how-its-about h1 pre {font-size: 2.8rem !important;}   
+}
+
+
+
+

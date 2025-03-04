@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Megrim);
+.gallery {
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.thumbnail {
+  box-sizing: border-box;
+  width: 300px;
+  margin: 0.5em;
+  flex-grow: 1;
+  flex-shrink: 1;
+  background: #131013;
+  position: relative;
+}
+.thumbnail a {
+  box-sizing: inherit;
+}
+.thumbnail a::before, .thumbnail a::after {
+  box-sizing: inherit;
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+.thumbnail img {
+  width: 100%;
+  height: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  vertical-align: bottom;
+}
+@media (max-width: 768px) {
+  .thumbnail img {
+    height: 300px;
+  }
+}
+
+.bigger {
+  width: 400px;
+}
+
+/*ANIMATIONS*/
+.thumbnail a img[data-src] {
+  opacity: 0;
+}
+.thumbnail a img {
+  opacity: 1;
+  transition: opacity 1.2s;
+}
+.thumbnail a::before, .thumbnail a::after {
+  border: 2px solid transparent;
+  width: 0;
+  height: 0;
+  top: 0;
+  left: 0;
+}
+.thumbnail a:hover::before, .thumbnail a:hover::after {
+  width: 100%;
+  height: 100%;
+}
+.thumbnail a:hover::before {
+  border-top-color: rgba(240, 255, 240, 0.8);
+  border-right-color: rgba(240, 255, 240, 0.8);
+  transition: width 0.2s ease-in-out, height 0.2s ease-in-out 0.2s;
+}
+.thumbnail a:hover::after {
+  border-bottom-color: rgba(240, 255, 240, 0.8);
+  border-left-color: rgba(240, 255, 240, 0.8);
+  transition: height 0.2s ease-in-out, width 0.2s ease-in-out 0.2s;
+}
+
+#lightcase-overlay {
+  background-color: #121012;
+}

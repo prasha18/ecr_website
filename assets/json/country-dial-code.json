@@ -1,0 +1,2228 @@
+[
+    {
+      "cca2": "AF",
+      "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+      "root": "+9",
+      "suffixes": [
+        "3"
+      ],
+      "common": "Afghanistan"
+    },
+    {
+      "cca2": "AX",
+      "svg": "https://flagcdn.com/ax.svg",
+      "root": "+3",
+      "suffixes": [
+        "58"
+      ],
+      "common": "Aland Islands"
+    },
+    {
+      "cca2": "AL",
+      "svg": "https://flagcdn.com/al.svg",
+      "root": "+3",
+      "suffixes": [
+        "55"
+      ],
+      "common": "Albania"
+    },
+    {
+      "cca2": "DZ",
+      "svg": "https://flagcdn.com/dz.svg",
+      "root": "+2",
+      "suffixes": [
+        "13"
+      ],
+      "common": "Algeria"
+    },
+    {
+      "cca2": "AS",
+      "svg": "https://flagcdn.com/as.svg",
+      "root": "+1",
+      "suffixes": [
+        "684"
+      ],
+      "common": "American Samoa"
+    },
+    {
+      "cca2": "AD",
+      "svg": "https://flagcdn.com/ad.svg",
+      "root": "+3",
+      "suffixes": [
+        "76"
+      ],
+      "common": "Andorra"
+    },
+    {
+      "cca2": "AO",
+      "svg": "https://flagcdn.com/ao.svg",
+      "root": "+2",
+      "suffixes": [
+        "44"
+      ],
+      "common": "Angola"
+    },
+    {
+      "cca2": "AI",
+      "svg": "https://flagcdn.com/ai.svg",
+      "root": "+1",
+      "suffixes": [
+        "264"
+      ],
+      "common": "Anguilla"
+    },
+    {
+      "cca2": "AQ",
+      "svg": "https://flagcdn.com/aq.svg",
+      "root": "+6",
+      "suffixes": [
+        "72"
+      ],
+      "common": "Antarctica"
+    },
+    {
+      "cca2": "AG",
+      "svg": "https://flagcdn.com/ag.svg",
+      "root": "+1",
+      "suffixes": [
+        "268"
+      ],
+      "common": "Antigua and Barbuda"
+    },
+    {
+      "cca2": "AR",
+      "svg": "https://flagcdn.com/ar.svg",
+      "root": "+5",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Argentina"
+    },
+    {
+      "cca2": "AM",
+      "svg": "https://flagcdn.com/am.svg",
+      "root": "+3",
+      "suffixes": [
+        "74"
+      ],
+      "common": "Armenia"
+    },
+    {
+      "cca2": "AW",
+      "svg": "https://flagcdn.com/aw.svg",
+      "root": "+2",
+      "suffixes": [
+        "97"
+      ],
+      "common": "Aruba"
+    },
+    {
+      "cca2": "AU",
+      "svg": "https://flagcdn.com/au.svg",
+      "root": "+6",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Australia"
+    },
+    {
+      "cca2": "AT",
+      "svg": "https://flagcdn.com/at.svg",
+      "root": "+4",
+      "suffixes": [
+        "3"
+      ],
+      "common": "Austria"
+    },
+    {
+      "cca2": "AZ",
+      "svg": "https://flagcdn.com/az.svg",
+      "root": "+9",
+      "suffixes": [
+        "94"
+      ],
+      "common": "Azerbaijan"
+    },
+    {
+      "cca2": "BS",
+      "svg": "https://flagcdn.com/bs.svg",
+      "root": "+1",
+      "suffixes": [
+        "242"
+      ],
+      "common": "Bahamas"
+    },
+    {
+      "cca2": "BH",
+      "svg": "https://flagcdn.com/bh.svg",
+      "root": "+9",
+      "suffixes": [
+        "73"
+      ],
+      "common": "Bahrain"
+    },
+    {
+      "cca2": "BD",
+      "svg": "https://flagcdn.com/bd.svg",
+      "root": "+8",
+      "suffixes": [
+        "80"
+      ],
+      "common": "Bangladesh"
+    },
+    {
+      "cca2": "BB",
+      "svg": "https://flagcdn.com/bb.svg",
+      "root": "+1",
+      "suffixes": [
+        "246"
+      ],
+      "common": "Barbados"
+    },
+    {
+      "cca2": "BY",
+      "svg": "https://flagcdn.com/by.svg",
+      "root": "+3",
+      "suffixes": [
+        "75"
+      ],
+      "common": "Belarus"
+    },
+    {
+      "cca2": "BE",
+      "svg": "https://flagcdn.com/be.svg",
+      "root": "+3",
+      "suffixes": [
+        "2"
+      ],
+      "common": "Belgium"
+    },
+    {
+      "cca2": "BZ",
+      "svg": "https://flagcdn.com/bz.svg",
+      "root": "+5",
+      "suffixes": [
+        "01"
+      ],
+      "common": "Belize"
+    },
+    {
+      "cca2": "BJ",
+      "svg": "https://flagcdn.com/bj.svg",
+      "root": "+2",
+      "suffixes": [
+        "29"
+      ],
+      "common": "Benin"
+    },
+    {
+      "cca2": "BM",
+      "svg": "https://flagcdn.com/bm.svg",
+      "root": "+1",
+      "suffixes": [
+        "441"
+      ],
+      "common": "Bermuda"
+    },
+    {
+      "cca2": "BT",
+      "svg": "https://flagcdn.com/bt.svg",
+      "root": "+9",
+      "suffixes": [
+        "75"
+      ],
+      "common": "Bhutan"
+    },
+    {
+      "cca2": "BO",
+      "svg": "https://flagcdn.com/bo.svg",
+      "root": "+5",
+      "suffixes": [
+        "91"
+      ],
+      "common": "Bolivia"
+    },
+    {
+      "cca2": "BA",
+      "svg": "https://flagcdn.com/ba.svg",
+      "root": "+3",
+      "suffixes": [
+        "87"
+      ],
+      "common": "Bosnia and Herzegovina"
+    },
+    {
+      "cca2": "BW",
+      "svg": "https://flagcdn.com/bw.svg",
+      "root": "+2",
+      "suffixes": [
+        "67"
+      ],
+      "common": "Botswana"
+    },
+    {
+      "cca2": "BV",
+      "svg": "https://flagcdn.com/bv.svg",
+      "root": "+4",
+      "suffixes": [
+        "7"
+      ],
+      "common": "Bouvet Island"
+    },
+    {
+      "cca2": "BR",
+      "svg": "https://flagcdn.com/br.svg",
+      "root": "+5",
+      "suffixes": [
+        "5"
+      ],
+      "common": "Brazil"
+    },
+    {
+      "cca2": "IO",
+      "svg": "https://flagcdn.com/io.svg",
+      "root": "+2",
+      "suffixes": [
+        "46"
+      ],
+      "common": "British Indian Ocean Territory"
+    },
+    {
+      "cca2": "VG",
+      "svg": "https://flagcdn.com/vg.svg",
+      "root": "+1",
+      "suffixes": [
+        "284"
+      ],
+      "common": "British Virgin Islands"
+    },
+    {
+      "cca2": "BN",
+      "svg": "https://flagcdn.com/bn.svg",
+      "root": "+6",
+      "suffixes": [
+        "73"
+      ],
+      "common": "Brunei"
+    },
+    {
+      "cca2": "BG",
+      "svg": "https://flagcdn.com/bg.svg",
+      "root": "+3",
+      "suffixes": [
+        "59"
+      ],
+      "common": "Bulgaria"
+    },
+    {
+      "cca2": "BF",
+      "svg": "https://flagcdn.com/bf.svg",
+      "root": "+2",
+      "suffixes": [
+        "26"
+      ],
+      "common": "Burkina Faso"
+    },
+    {
+      "cca2": "BI",
+      "svg": "https://flagcdn.com/bi.svg",
+      "root": "+2",
+      "suffixes": [
+        "57"
+      ],
+      "common": "Burundi"
+    },
+    {
+      "cca2": "KH",
+      "svg": "https://flagcdn.com/kh.svg",
+      "root": "+8",
+      "suffixes": [
+        "55"
+      ],
+      "common": "Cambodia"
+    },
+    {
+      "cca2": "CM",
+      "svg": "https://flagcdn.com/cm.svg",
+      "root": "+2",
+      "suffixes": [
+        "37"
+      ],
+      "common": "Cameroon"
+    },
+    {
+      "cca2": "CA",
+      "svg": "https://flagcdn.com/ca.svg",
+      "root": "+1",
+      "suffixes": [
+        ""
+      ],
+      "common": "Canada"
+    },
+    {
+      "cca2": "CV",
+      "svg": "https://flagcdn.com/cv.svg",
+      "root": "+2",
+      "suffixes": [
+        "38"
+      ],
+      "common": "Cape Verde"
+    },
+    {
+      "cca2": "BQ",
+      "svg": "https://flagcdn.com/bq.svg",
+      "root": "+5",
+      "suffixes": [
+        "99"
+      ],
+      "common": "Caribbean Netherlands"
+    },
+    {
+      "cca2": "KY",
+      "svg": "https://flagcdn.com/ky.svg",
+      "root": "+1",
+      "suffixes": [
+        "345"
+      ],
+      "common": "Cayman Islands"
+    },
+    {
+      "cca2": "CF",
+      "svg": "https://flagcdn.com/cf.svg",
+      "root": "+2",
+      "suffixes": [
+        "36"
+      ],
+      "common": "Central African Republic"
+    },
+    {
+      "cca2": "TD",
+      "svg": "https://flagcdn.com/td.svg",
+      "root": "+2",
+      "suffixes": [
+        "35"
+      ],
+      "common": "Chad"
+    },
+    {
+      "cca2": "CL",
+      "svg": "https://flagcdn.com/cl.svg",
+      "root": "+5",
+      "suffixes": [
+        "6"
+      ],
+      "common": "Chile"
+    },
+    {
+      "cca2": "CN",
+      "svg": "https://flagcdn.com/cn.svg",
+      "root": "+8",
+      "suffixes": [
+        "6"
+      ],
+      "common": "China"
+    },
+    {
+      "cca2": "CX",
+      "svg": "https://flagcdn.com/cx.svg",
+      "root": "+6",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Christmas Island"
+    },
+    {
+      "cca2": "CC",
+      "svg": "https://flagcdn.com/cc.svg",
+      "root": "+6",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Cocos (Keeling) Islands"
+    },
+    {
+      "cca2": "CO",
+      "svg": "https://flagcdn.com/co.svg",
+      "root": "+5",
+      "suffixes": [
+        "7"
+      ],
+      "common": "Colombia"
+    },
+    {
+      "cca2": "KM",
+      "svg": "https://flagcdn.com/km.svg",
+      "root": "+2",
+      "suffixes": [
+        "69"
+      ],
+      "common": "Comoros"
+    },
+    {
+      "cca2": "CK",
+      "svg": "https://flagcdn.com/ck.svg",
+      "root": "+6",
+      "suffixes": [
+        "82"
+      ],
+      "common": "Cook Islands"
+    },
+    {
+      "cca2": "CR",
+      "svg": "https://flagcdn.com/cr.svg",
+      "root": "+5",
+      "suffixes": [
+        "06"
+      ],
+      "common": "Costa Rica"
+    },
+    {
+      "cca2": "HR",
+      "svg": "https://flagcdn.com/hr.svg",
+      "root": "+3",
+      "suffixes": [
+        "85"
+      ],
+      "common": "Croatia"
+    },
+    {
+      "cca2": "CU",
+      "svg": "https://flagcdn.com/cu.svg",
+      "root": "+5",
+      "suffixes": [
+        "3"
+      ],
+      "common": "Cuba"
+    },
+    {
+      "cca2": "CW",
+      "svg": "https://flagcdn.com/cw.svg",
+      "root": "+5",
+      "suffixes": [
+        "99"
+      ],
+      "common": "Curaçao"
+    },
+    {
+      "cca2": "CY",
+      "svg": "https://flagcdn.com/cy.svg",
+      "root": "+3",
+      "suffixes": [
+        "57"
+      ],
+      "common": "Cyprus"
+    },
+    {
+      "cca2": "CZ",
+      "svg": "https://flagcdn.com/cz.svg",
+      "root": "+4",
+      "suffixes": [
+        "20"
+      ],
+      "common": "Czechia"
+    },
+    {
+      "cca2": "CD",
+      "svg": "https://flagcdn.com/cd.svg",
+      "root": "+2",
+      "suffixes": [
+        "43"
+      ],
+      "common": "DR Congo"
+    },
+    {
+      "cca2": "DK",
+      "svg": "https://flagcdn.com/dk.svg",
+      "root": "+4",
+      "suffixes": [
+        "5"
+      ],
+      "common": "Denmark"
+    },
+    {
+      "cca2": "DJ",
+      "svg": "https://flagcdn.com/dj.svg",
+      "root": "+2",
+      "suffixes": [
+        "53"
+      ],
+      "common": "Djibouti"
+    },
+    {
+      "cca2": "DM",
+      "svg": "https://flagcdn.com/dm.svg",
+      "root": "+1",
+      "suffixes": [
+        "767"
+      ],
+      "common": "Dominica"
+    },
+    {
+      "cca2": "DO",
+      "svg": "https://flagcdn.com/do.svg",
+      "root": "+1",
+      "suffixes": [
+        "849"
+      ],
+      "common": "Dominican Republic"
+    },
+    {
+      "cca2": "EC",
+      "svg": "https://flagcdn.com/ec.svg",
+      "root": "+5",
+      "suffixes": [
+        "93"
+      ],
+      "common": "Ecuador"
+    },
+    {
+      "cca2": "EG",
+      "svg": "https://flagcdn.com/eg.svg",
+      "root": "+2",
+      "suffixes": [
+        "0"
+      ],
+      "common": "Egypt"
+    },
+    {
+      "cca2": "SV",
+      "svg": "https://flagcdn.com/sv.svg",
+      "root": "+5",
+      "suffixes": [
+        "03"
+      ],
+      "common": "El Salvador"
+    },
+    {
+      "cca2": "GQ",
+      "svg": "https://flagcdn.com/gq.svg",
+      "root": "+2",
+      "suffixes": [
+        "40"
+      ],
+      "common": "Equatorial Guinea"
+    },
+    {
+      "cca2": "ER",
+      "svg": "https://flagcdn.com/er.svg",
+      "root": "+2",
+      "suffixes": [
+        "91"
+      ],
+      "common": "Eritrea"
+    },
+    {
+      "cca2": "EE",
+      "svg": "https://flagcdn.com/ee.svg",
+      "root": "+3",
+      "suffixes": [
+        "72"
+      ],
+      "common": "Estonia"
+    },
+    {
+      "cca2": "SZ",
+      "svg": "https://flagcdn.com/sz.svg",
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ],
+      "common": "Eswatini"
+    },
+    {
+      "cca2": "ET",
+      "svg": "https://flagcdn.com/et.svg",
+      "root": "+2",
+      "suffixes": [
+        "51"
+      ],
+      "common": "Ethiopia"
+    },
+    {
+      "cca2": "FK",
+      "svg": "https://flagcdn.com/fk.svg",
+      "root": "+5",
+      "suffixes": [
+        "00"
+      ],
+      "common": "Falkland Islands"
+    },
+    {
+      "cca2": "FO",
+      "svg": "https://flagcdn.com/fo.svg",
+      "root": "+2",
+      "suffixes": [
+        "98"
+      ],
+      "common": "Faroe Islands"
+    },
+    {
+      "cca2": "FJ",
+      "svg": "https://flagcdn.com/fj.svg",
+      "root": "+6",
+      "suffixes": [
+        "79"
+      ],
+      "common": "Fiji"
+    },
+    {
+      "cca2": "FI",
+      "svg": "https://flagcdn.com/fi.svg",
+      "root": "+3",
+      "suffixes": [
+        "58"
+      ],
+      "common": "Finland"
+    },
+    {
+      "cca2": "FR",
+      "svg": "https://flagcdn.com/fr.svg",
+      "root": "+3",
+      "suffixes": [
+        "3"
+      ],
+      "common": "France"
+    },
+    {
+      "cca2": "GF",
+      "svg": "https://flagcdn.com/gf.svg",
+      "root": "+5",
+      "suffixes": [
+        "94"
+      ],
+      "common": "French Guiana"
+    },
+    {
+      "cca2": "PF",
+      "svg": "https://flagcdn.com/pf.svg",
+      "root": "+6",
+      "suffixes": [
+        "89"
+      ],
+      "common": "French Polynesia"
+    },
+    {
+      "cca2": "TF",
+      "svg": "https://flagcdn.com/tf.svg",
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ],
+      "common": "French Southern and Antarctic Lands"
+    },
+    {
+      "cca2": "GA",
+      "svg": "https://flagcdn.com/ga.svg",
+      "root": "+2",
+      "suffixes": [
+        "41"
+      ],
+      "common": "Gabon"
+    },
+    {
+      "cca2": "GM",
+      "svg": "https://flagcdn.com/gm.svg",
+      "root": "+2",
+      "suffixes": [
+        "20"
+      ],
+      "common": "Gambia"
+    },
+    {
+      "cca2": "GE",
+      "svg": "https://flagcdn.com/ge.svg",
+      "root": "+9",
+      "suffixes": [
+        "95"
+      ],
+      "common": "Georgia"
+    },
+    {
+      "cca2": "DE",
+      "svg": "https://flagcdn.com/de.svg",
+      "root": "+4",
+      "suffixes": [
+        "9"
+      ],
+      "common": "Germany"
+    },
+    {
+      "cca2": "GH",
+      "svg": "https://flagcdn.com/gh.svg",
+      "root": "+2",
+      "suffixes": [
+        "33"
+      ],
+      "common": "Ghana"
+    },
+    {
+      "cca2": "GI",
+      "svg": "https://flagcdn.com/gi.svg",
+      "root": "+3",
+      "suffixes": [
+        "50"
+      ],
+      "common": "Gibraltar"
+    },
+    {
+      "cca2": "GR",
+      "svg": "https://flagcdn.com/gr.svg",
+      "root": "+3",
+      "suffixes": [
+        "0"
+      ],
+      "common": "Greece"
+    },
+    {
+      "cca2": "GL",
+      "svg": "https://flagcdn.com/gl.svg",
+      "root": "+2",
+      "suffixes": [
+        "99"
+      ],
+      "common": "Greenland"
+    },
+    {
+      "cca2": "GD",
+      "svg": "https://flagcdn.com/gd.svg",
+      "root": "+1",
+      "suffixes": [
+        "473"
+      ],
+      "common": "Grenada"
+    },
+    {
+      "cca2": "GP",
+      "svg": "https://flagcdn.com/gp.svg",
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ],
+      "common": "Guadeloupe"
+    },
+    {
+      "cca2": "GU",
+      "svg": "https://flagcdn.com/gu.svg",
+      "root": "+1",
+      "suffixes": [
+        "671"
+      ],
+      "common": "Guam"
+    },
+    {
+      "cca2": "GT",
+      "svg": "https://flagcdn.com/gt.svg",
+      "root": "+5",
+      "suffixes": [
+        "02"
+      ],
+      "common": "Guatemala"
+    },
+    {
+      "cca2": "GG",
+      "svg": "https://flagcdn.com/gg.svg",
+      "root": "+4",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Guernsey"
+    },
+    {
+      "cca2": "GN",
+      "svg": "https://flagcdn.com/gn.svg",
+      "root": "+2",
+      "suffixes": [
+        "24"
+      ],
+      "common": "Guinea"
+    },
+    {
+      "cca2": "GW",
+      "svg": "https://flagcdn.com/gw.svg",
+      "root": "+2",
+      "suffixes": [
+        "45"
+      ],
+      "common": "Guinea-Bissau"
+    },
+    {
+      "cca2": "GY",
+      "svg": "https://flagcdn.com/gy.svg",
+      "root": "+5",
+      "suffixes": [
+        "92"
+      ],
+      "common": "Guyana"
+    },
+    {
+      "cca2": "HT",
+      "svg": "https://flagcdn.com/ht.svg",
+      "root": "+5",
+      "suffixes": [
+        "09"
+      ],
+      "common": "Haiti"
+    },
+    {
+      "cca2": "HN",
+      "svg": "https://flagcdn.com/hn.svg",
+      "root": "+5",
+      "suffixes": [
+        "04"
+      ],
+      "common": "Honduras"
+    },
+    {
+      "cca2": "HK",
+      "svg": "https://flagcdn.com/hk.svg",
+      "root": "+8",
+      "suffixes": [
+        "52"
+      ],
+      "common": "Hong Kong"
+    },
+    {
+      "cca2": "HU",
+      "svg": "https://flagcdn.com/hu.svg",
+      "root": "+3",
+      "suffixes": [
+        "6"
+      ],
+      "common": "Hungary"
+    },
+    {
+      "cca2": "IS",
+      "svg": "https://flagcdn.com/is.svg",
+      "root": "+3",
+      "suffixes": [
+        "54"
+      ],
+      "common": "Iceland"
+    },
+    {
+      "cca2": "IN",
+      "svg": "https://flagcdn.com/in.svg",
+      "root": "+9",
+      "suffixes": [
+        "1"
+      ],
+      "common": "India"
+    },
+    {
+      "cca2": "ID",
+      "svg": "https://flagcdn.com/id.svg",
+      "root": "+6",
+      "suffixes": [
+        "2"
+      ],
+      "common": "Indonesia"
+    },
+    {
+      "cca2": "IR",
+      "svg": "https://flagcdn.com/ir.svg",
+      "root": "+9",
+      "suffixes": [
+        "8"
+      ],
+      "common": "Iran"
+    },
+    {
+      "cca2": "IQ",
+      "svg": "https://flagcdn.com/iq.svg",
+      "root": "+9",
+      "suffixes": [
+        "64"
+      ],
+      "common": "Iraq"
+    },
+    {
+      "cca2": "IE",
+      "svg": "https://flagcdn.com/ie.svg",
+      "root": "+3",
+      "suffixes": [
+        "53"
+      ],
+      "common": "Ireland"
+    },
+    {
+      "cca2": "IM",
+      "svg": "https://flagcdn.com/im.svg",
+      "root": "+4",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Isle of Man"
+    },
+    {
+      "cca2": "IL",
+      "svg": "https://flagcdn.com/il.svg",
+      "root": "+9",
+      "suffixes": [
+        "72"
+      ],
+      "common": "Israel"
+    },
+    {
+      "cca2": "IT",
+      "svg": "https://flagcdn.com/it.svg",
+      "root": "+3",
+      "suffixes": [
+        "9"
+      ],
+      "common": "Italy"
+    },
+    {
+      "cca2": "CI",
+      "svg": "https://flagcdn.com/ci.svg",
+      "root": "+2",
+      "suffixes": [
+        "25"
+      ],
+      "common": "Ivory Coast"
+    },
+    {
+      "cca2": "JM",
+      "svg": "https://flagcdn.com/jm.svg",
+      "root": "+1",
+      "suffixes": [
+        "876"
+      ],
+      "common": "Jamaica"
+    },
+    {
+      "cca2": "JP",
+      "svg": "https://flagcdn.com/jp.svg",
+      "root": "+8",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Japan"
+    },
+    {
+      "cca2": "JE",
+      "svg": "https://flagcdn.com/je.svg",
+      "root": "+4",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Jersey"
+    },
+    {
+      "cca2": "JO",
+      "svg": "https://flagcdn.com/jo.svg",
+      "root": "+9",
+      "suffixes": [
+        "62"
+      ],
+      "common": "Jordan"
+    },
+    {
+      "cca2": "KZ",
+      "svg": "https://flagcdn.com/kz.svg",
+      "root": "+7",
+      "suffixes": [
+        "6",
+        "7"
+      ],
+      "common": "Kazakhstan"
+    },
+    {
+      "cca2": "KE",
+      "svg": "https://flagcdn.com/ke.svg",
+      "root": "+2",
+      "suffixes": [
+        "54"
+      ],
+      "common": "Kenya"
+    },
+    {
+      "cca2": "KI",
+      "svg": "https://flagcdn.com/ki.svg",
+      "root": "+6",
+      "suffixes": [
+        "86"
+      ],
+      "common": "Kiribati"
+    },
+    {
+      "cca2": "XK",
+      "svg": "https://flagcdn.com/xk.svg",
+      "root": "+3",
+      "suffixes": [
+        "83"
+      ],
+      "common": "Kosovo"
+    },
+    {
+      "cca2": "KW",
+      "svg": "https://flagcdn.com/kw.svg",
+      "root": "+9",
+      "suffixes": [
+        "65"
+      ],
+      "common": "Kuwait"
+    },
+    {
+      "cca2": "KG",
+      "svg": "https://flagcdn.com/kg.svg",
+      "root": "+9",
+      "suffixes": [
+        "96"
+      ],
+      "common": "Kyrgyzstan"
+    },
+    {
+      "cca2": "LA",
+      "svg": "https://flagcdn.com/la.svg",
+      "root": "+8",
+      "suffixes": [
+        "56"
+      ],
+      "common": "Laos"
+    },
+    {
+      "cca2": "LV",
+      "svg": "https://flagcdn.com/lv.svg",
+      "root": "+3",
+      "suffixes": [
+        "71"
+      ],
+      "common": "Latvia"
+    },
+    {
+      "cca2": "LB",
+      "svg": "https://flagcdn.com/lb.svg",
+      "root": "+9",
+      "suffixes": [
+        "61"
+      ],
+      "common": "Lebanon"
+    },
+    {
+      "cca2": "LS",
+      "svg": "https://flagcdn.com/ls.svg",
+      "root": "+2",
+      "suffixes": [
+        "66"
+      ],
+      "common": "Lesotho"
+    },
+    {
+      "cca2": "LR",
+      "svg": "https://flagcdn.com/lr.svg",
+      "root": "+2",
+      "suffixes": [
+        "31"
+      ],
+      "common": "Liberia"
+    },
+    {
+      "cca2": "LY",
+      "svg": "https://flagcdn.com/ly.svg",
+      "root": "+2",
+      "suffixes": [
+        "18"
+      ],
+      "common": "Libya"
+    },
+    {
+      "cca2": "LI",
+      "svg": "https://flagcdn.com/li.svg",
+      "root": "+4",
+      "suffixes": [
+        "23"
+      ],
+      "common": "Liechtenstein"
+    },
+    {
+      "cca2": "LT",
+      "svg": "https://flagcdn.com/lt.svg",
+      "root": "+3",
+      "suffixes": [
+        "70"
+      ],
+      "common": "Lithuania"
+    },
+    {
+      "cca2": "LU",
+      "svg": "https://flagcdn.com/lu.svg",
+      "root": "+3",
+      "suffixes": [
+        "52"
+      ],
+      "common": "Luxembourg"
+    },
+    {
+      "cca2": "MO",
+      "svg": "https://flagcdn.com/mo.svg",
+      "root": "+8",
+      "suffixes": [
+        "53"
+      ],
+      "common": "Macau"
+    },
+    {
+      "cca2": "MG",
+      "svg": "https://flagcdn.com/mg.svg",
+      "root": "+2",
+      "suffixes": [
+        "61"
+      ],
+      "common": "Madagascar"
+    },
+    {
+      "cca2": "MW",
+      "svg": "https://flagcdn.com/mw.svg",
+      "root": "+2",
+      "suffixes": [
+        "65"
+      ],
+      "common": "Malawi"
+    },
+    {
+      "cca2": "MY",
+      "svg": "https://flagcdn.com/my.svg",
+      "root": "+6",
+      "suffixes": [
+        "0"
+      ],
+      "common": "Malaysia"
+    },
+    {
+      "cca2": "MV",
+      "svg": "https://flagcdn.com/mv.svg",
+      "root": "+9",
+      "suffixes": [
+        "60"
+      ],
+      "common": "Maldives"
+    },
+    {
+      "cca2": "ML",
+      "svg": "https://flagcdn.com/ml.svg",
+      "root": "+2",
+      "suffixes": [
+        "23"
+      ],
+      "common": "Mali"
+    },
+    {
+      "cca2": "MT",
+      "svg": "https://flagcdn.com/mt.svg",
+      "root": "+3",
+      "suffixes": [
+        "56"
+      ],
+      "common": "Malta"
+    },
+    {
+      "cca2": "MH",
+      "svg": "https://flagcdn.com/mh.svg",
+      "root": "+6",
+      "suffixes": [
+        "92"
+      ],
+      "common": "Marshall Islands"
+    },
+    {
+      "cca2": "MQ",
+      "svg": "https://flagcdn.com/mq.svg",
+      "root": "+5",
+      "suffixes": [
+        "96"
+      ],
+      "common": "Martinique"
+    },
+    {
+      "cca2": "MR",
+      "svg": "https://flagcdn.com/mr.svg",
+      "root": "+2",
+      "suffixes": [
+        "22"
+      ],
+      "common": "Mauritania"
+    },
+    {
+      "cca2": "MU",
+      "svg": "https://flagcdn.com/mu.svg",
+      "root": "+2",
+      "suffixes": [
+        "30"
+      ],
+      "common": "Mauritius"
+    },
+    {
+      "cca2": "YT",
+      "svg": "https://flagcdn.com/yt.svg",
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ],
+      "common": "Mayotte"
+    },
+    {
+      "cca2": "MX",
+      "svg": "https://flagcdn.com/mx.svg",
+      "root": "+5",
+      "suffixes": [
+        "2"
+      ],
+      "common": "Mexico"
+    },
+    {
+      "cca2": "FM",
+      "svg": "https://flagcdn.com/fm.svg",
+      "root": "+6",
+      "suffixes": [
+        "91"
+      ],
+      "common": "Micronesia"
+    },
+    {
+      "cca2": "MD",
+      "svg": "https://flagcdn.com/md.svg",
+      "root": "+3",
+      "suffixes": [
+        "73"
+      ],
+      "common": "Moldova"
+    },
+    {
+      "cca2": "MC",
+      "svg": "https://flagcdn.com/mc.svg",
+      "root": "+3",
+      "suffixes": [
+        "77"
+      ],
+      "common": "Monaco"
+    },
+    {
+      "cca2": "MN",
+      "svg": "https://flagcdn.com/mn.svg",
+      "root": "+9",
+      "suffixes": [
+        "76"
+      ],
+      "common": "Mongolia"
+    },
+    {
+      "cca2": "ME",
+      "svg": "https://flagcdn.com/me.svg",
+      "root": "+3",
+      "suffixes": [
+        "82"
+      ],
+      "common": "Montenegro"
+    },
+    {
+      "cca2": "MS",
+      "svg": "https://flagcdn.com/ms.svg",
+      "root": "+1",
+      "suffixes": [
+        "664"
+      ],
+      "common": "Montserrat"
+    },
+    {
+      "cca2": "MA",
+      "svg": "https://flagcdn.com/ma.svg",
+      "root": "+2",
+      "suffixes": [
+        "12"
+      ],
+      "common": "Morocco"
+    },
+    {
+      "cca2": "MZ",
+      "svg": "https://flagcdn.com/mz.svg",
+      "root": "+2",
+      "suffixes": [
+        "58"
+      ],
+      "common": "Mozambique"
+    },
+    {
+      "cca2": "MM",
+      "svg": "https://flagcdn.com/mm.svg",
+      "root": "+9",
+      "suffixes": [
+        "5"
+      ],
+      "common": "Myanmar"
+    },
+    {
+      "cca2": "NA",
+      "svg": "https://flagcdn.com/na.svg",
+      "root": "+2",
+      "suffixes": [
+        "64"
+      ],
+      "common": "Namibia"
+    },
+    {
+      "cca2": "NR",
+      "svg": "https://flagcdn.com/nr.svg",
+      "root": "+6",
+      "suffixes": [
+        "74"
+      ],
+      "common": "Nauru"
+    },
+    {
+      "cca2": "NP",
+      "svg": "https://flagcdn.com/np.svg",
+      "root": "+9",
+      "suffixes": [
+        "77"
+      ],
+      "common": "Nepal"
+    },
+    {
+      "cca2": "NL",
+      "svg": "https://flagcdn.com/nl.svg",
+      "root": "+3",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Netherlands"
+    },
+    {
+      "cca2": "NC",
+      "svg": "https://flagcdn.com/nc.svg",
+      "root": "+6",
+      "suffixes": [
+        "87"
+      ],
+      "common": "New Caledonia"
+    },
+    {
+      "cca2": "NZ",
+      "svg": "https://flagcdn.com/nz.svg",
+      "root": "+6",
+      "suffixes": [
+        "4"
+      ],
+      "common": "New Zealand"
+    },
+    {
+      "cca2": "NI",
+      "svg": "https://flagcdn.com/ni.svg",
+      "root": "+5",
+      "suffixes": [
+        "05"
+      ],
+      "common": "Nicaragua"
+    },
+    {
+      "cca2": "NE",
+      "svg": "https://flagcdn.com/ne.svg",
+      "root": "+2",
+      "suffixes": [
+        "27"
+      ],
+      "common": "Niger"
+    },
+    {
+      "cca2": "NG",
+      "svg": "https://flagcdn.com/ng.svg",
+      "root": "+2",
+      "suffixes": [
+        "34"
+      ],
+      "common": "Nigeria"
+    },
+    {
+      "cca2": "NU",
+      "svg": "https://flagcdn.com/nu.svg",
+      "root": "+6",
+      "suffixes": [
+        "83"
+      ],
+      "common": "Niue"
+    },
+    {
+      "cca2": "NF",
+      "svg": "https://flagcdn.com/nf.svg",
+      "root": "+6",
+      "suffixes": [
+        "72"
+      ],
+      "common": "Norfolk Island"
+    },
+    {
+      "cca2": "KP",
+      "svg": "https://flagcdn.com/kp.svg",
+      "root": "+8",
+      "suffixes": [
+        "50"
+      ],
+      "common": "North Korea"
+    },
+    {
+      "cca2": "MK",
+      "svg": "https://flagcdn.com/mk.svg",
+      "root": "+3",
+      "suffixes": [
+        "89"
+      ],
+      "common": "North Macedonia"
+    },
+    {
+      "cca2": "MP",
+      "svg": "https://flagcdn.com/mp.svg",
+      "root": "+1",
+      "suffixes": [
+        "670"
+      ],
+      "common": "Northern Mariana Islands"
+    },
+    {
+      "cca2": "NO",
+      "svg": "https://flagcdn.com/no.svg",
+      "root": "+4",
+      "suffixes": [
+        "7"
+      ],
+      "common": "Norway"
+    },
+    {
+      "cca2": "OM",
+      "svg": "https://flagcdn.com/om.svg",
+      "root": "+9",
+      "suffixes": [
+        "68"
+      ],
+      "common": "Oman"
+    },
+    {
+      "cca2": "PK",
+      "svg": "https://flagcdn.com/pk.svg",
+      "root": "+9",
+      "suffixes": [
+        "2"
+      ],
+      "common": "Pakistan"
+    },
+    {
+      "cca2": "PW",
+      "svg": "https://flagcdn.com/pw.svg",
+      "root": "+6",
+      "suffixes": [
+        "80"
+      ],
+      "common": "Palau"
+    },
+    {
+      "cca2": "PS",
+      "svg": "https://flagcdn.com/ps.svg",
+      "root": "+9",
+      "suffixes": [
+        "70"
+      ],
+      "common": "Palestine"
+    },
+    {
+      "cca2": "PA",
+      "svg": "https://flagcdn.com/pa.svg",
+      "root": "+5",
+      "suffixes": [
+        "07"
+      ],
+      "common": "Panama"
+    },
+    {
+      "cca2": "PG",
+      "svg": "https://flagcdn.com/pg.svg",
+      "root": "+6",
+      "suffixes": [
+        "75"
+      ],
+      "common": "Papua New Guinea"
+    },
+    {
+      "cca2": "PY",
+      "svg": "https://flagcdn.com/py.svg",
+      "root": "+5",
+      "suffixes": [
+        "95"
+      ],
+      "common": "Paraguay"
+    },
+    {
+      "cca2": "PE",
+      "svg": "https://flagcdn.com/pe.svg",
+      "root": "+5",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Peru"
+    },
+    {
+      "cca2": "PH",
+      "svg": "https://flagcdn.com/ph.svg",
+      "root": "+6",
+      "suffixes": [
+        "3"
+      ],
+      "common": "Philippines"
+    },
+    {
+      "cca2": "PN",
+      "svg": "https://flagcdn.com/pn.svg",
+      "root": "+6",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Pitcairn Islands"
+    },
+    {
+      "cca2": "PL",
+      "svg": "https://flagcdn.com/pl.svg",
+      "root": "+4",
+      "suffixes": [
+        "8"
+      ],
+      "common": "Poland"
+    },
+    {
+      "cca2": "PT",
+      "svg": "https://flagcdn.com/pt.svg",
+      "root": "+3",
+      "suffixes": [
+        "51"
+      ],
+      "common": "Portugal"
+    },
+    {
+      "cca2": "PR",
+      "svg": "https://flagcdn.com/pr.svg",
+      "root": "+1",
+      "suffixes": [
+        "787",
+        "939"
+      ],
+      "common": "Puerto Rico"
+    },
+    {
+      "cca2": "QA",
+      "svg": "https://flagcdn.com/qa.svg",
+      "root": "+9",
+      "suffixes": [
+        "74"
+      ],
+      "common": "Qatar"
+    },
+    {
+      "cca2": "CG",
+      "svg": "https://flagcdn.com/cg.svg",
+      "root": "+2",
+      "suffixes": [
+        "42"
+      ],
+      "common": "Republic of the Congo"
+    },
+    {
+      "cca2": "RO",
+      "svg": "https://flagcdn.com/ro.svg",
+      "root": "+4",
+      "suffixes": [
+        "0"
+      ],
+      "common": "Romania"
+    },
+    {
+      "cca2": "RU",
+      "svg": "https://flagcdn.com/ru.svg",
+      "root": "+7",
+      "suffixes": [
+        ""
+      ],
+      "common": "Russia"
+    },
+    {
+      "cca2": "RW",
+      "svg": "https://flagcdn.com/rw.svg",
+      "root": "+2",
+      "suffixes": [
+        "50"
+      ],
+      "common": "Rwanda"
+    },
+    {
+      "cca2": "RE",
+      "svg": "https://flagcdn.com/re.svg",
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ],
+      "common": "Réunion"
+    },
+    {
+      "cca2": "BL",
+      "svg": "https://flagcdn.com/bl.svg",
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ],
+      "common": "Saint Barthélemy"
+    },
+    {
+      "cca2": "SH",
+      "svg": "https://flagcdn.com/sh.svg",
+      "root": "+2",
+      "suffixes": [
+        "90",
+        "47"
+      ],
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "cca2": "KN",
+      "svg": "https://flagcdn.com/kn.svg",
+      "root": "+1",
+      "suffixes": [
+        "869"
+      ],
+      "common": "Saint Kitts and Nevis"
+    },
+    {
+      "cca2": "LC",
+      "svg": "https://flagcdn.com/lc.svg",
+      "root": "+1",
+      "suffixes": [
+        "758"
+      ],
+      "common": "Saint Lucia"
+    },
+    {
+      "cca2": "MF",
+      "svg": "https://flagcdn.com/mf.svg",
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ],
+      "common": "Saint Martin"
+    },
+    {
+      "cca2": "PM",
+      "svg": "https://flagcdn.com/pm.svg",
+      "root": "+5",
+      "suffixes": [
+        "08"
+      ],
+      "common": "Saint Pierre and Miquelon"
+    },
+    {
+      "cca2": "VC",
+      "svg": "https://flagcdn.com/vc.svg",
+      "root": "+1",
+      "suffixes": [
+        "784"
+      ],
+      "common": "Saint Vincent and the Grenadines"
+    },
+    {
+      "cca2": "WS",
+      "svg": "https://flagcdn.com/ws.svg",
+      "root": "+6",
+      "suffixes": [
+        "85"
+      ],
+      "common": "Samoa"
+    },
+    {
+      "cca2": "SM",
+      "svg": "https://flagcdn.com/sm.svg",
+      "root": "+3",
+      "suffixes": [
+        "78"
+      ],
+      "common": "San Marino"
+    },
+    {
+      "cca2": "SA",
+      "svg": "https://flagcdn.com/sa.svg",
+      "root": "+9",
+      "suffixes": [
+        "66"
+      ],
+      "common": "Saudi Arabia"
+    },
+    {
+      "cca2": "SN",
+      "svg": "https://flagcdn.com/sn.svg",
+      "root": "+2",
+      "suffixes": [
+        "21"
+      ],
+      "common": "Senegal"
+    },
+    {
+      "cca2": "RS",
+      "svg": "https://flagcdn.com/rs.svg",
+      "root": "+3",
+      "suffixes": [
+        "81"
+      ],
+      "common": "Serbia"
+    },
+    {
+      "cca2": "SC",
+      "svg": "https://flagcdn.com/sc.svg",
+      "root": "+2",
+      "suffixes": [
+        "48"
+      ],
+      "common": "Seychelles"
+    },
+    {
+      "cca2": "SL",
+      "svg": "https://flagcdn.com/sl.svg",
+      "root": "+2",
+      "suffixes": [
+        "32"
+      ],
+      "common": "Sierra Leone"
+    },
+    {
+      "cca2": "SG",
+      "svg": "https://flagcdn.com/sg.svg",
+      "root": "+6",
+      "suffixes": [
+        "5"
+      ],
+      "common": "Singapore"
+    },
+    {
+      "cca2": "SX",
+      "svg": "https://flagcdn.com/sx.svg",
+      "root": "+1",
+      "suffixes": [
+        "721"
+      ],
+      "common": "Sint Maarten"
+    },
+    {
+      "cca2": "SK",
+      "svg": "https://flagcdn.com/sk.svg",
+      "root": "+4",
+      "suffixes": [
+        "21"
+      ],
+      "common": "Slovakia"
+    },
+    {
+      "cca2": "SI",
+      "svg": "https://flagcdn.com/si.svg",
+      "root": "+3",
+      "suffixes": [
+        "86"
+      ],
+      "common": "Slovenia"
+    },
+    {
+      "cca2": "SB",
+      "svg": "https://flagcdn.com/sb.svg",
+      "root": "+6",
+      "suffixes": [
+        "77"
+      ],
+      "common": "Solomon Islands"
+    },
+    {
+      "cca2": "SO",
+      "svg": "https://flagcdn.com/so.svg",
+      "root": "+2",
+      "suffixes": [
+        "52"
+      ],
+      "common": "Somalia"
+    },
+    {
+      "cca2": "ZA",
+      "svg": "https://flagcdn.com/za.svg",
+      "root": "+2",
+      "suffixes": [
+        "7"
+      ],
+      "common": "South Africa"
+    },
+    {
+      "cca2": "GS",
+      "svg": "https://flagcdn.com/gs.svg",
+      "root": "+5",
+      "suffixes": [
+        "00"
+      ],
+      "common": "South Georgia"
+    },
+    {
+      "cca2": "KR",
+      "svg": "https://flagcdn.com/kr.svg",
+      "root": "+8",
+      "suffixes": [
+        "2"
+      ],
+      "common": "South Korea"
+    },
+    {
+      "cca2": "SS",
+      "svg": "https://flagcdn.com/ss.svg",
+      "root": "+2",
+      "suffixes": [
+        "11"
+      ],
+      "common": "South Sudan"
+    },
+    {
+      "cca2": "ES",
+      "svg": "https://flagcdn.com/es.svg",
+      "root": "+3",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Spain"
+    },
+    {
+      "cca2": "LK",
+      "svg": "https://flagcdn.com/lk.svg",
+      "root": "+9",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Sri Lanka"
+    },
+    {
+      "cca2": "SD",
+      "svg": "https://flagcdn.com/sd.svg",
+      "root": "+2",
+      "suffixes": [
+        "49"
+      ],
+      "common": "Sudan"
+    },
+    {
+      "cca2": "SR",
+      "svg": "https://flagcdn.com/sr.svg",
+      "root": "+5",
+      "suffixes": [
+        "97"
+      ],
+      "common": "Suriname"
+    },
+    {
+      "cca2": "SJ",
+      "svg": "https://flagcdn.com/sj.svg",
+      "root": "+4",
+      "suffixes": [
+        "779"
+      ],
+      "common": "Svalbard and Jan Mayen"
+    },
+    {
+      "cca2": "SE",
+      "svg": "https://flagcdn.com/se.svg",
+      "root": "+4",
+      "suffixes": [
+        "6"
+      ],
+      "common": "Sweden"
+    },
+    {
+      "cca2": "CH",
+      "svg": "https://flagcdn.com/ch.svg",
+      "root": "+4",
+      "suffixes": [
+        "1"
+      ],
+      "common": "Switzerland"
+    },
+    {
+      "cca2": "SY",
+      "svg": "https://flagcdn.com/sy.svg",
+      "root": "+9",
+      "suffixes": [
+        "63"
+      ],
+      "common": "Syria"
+    },
+    {
+      "cca2": "ST",
+      "svg": "https://flagcdn.com/st.svg",
+      "root": "+2",
+      "suffixes": [
+        "39"
+      ],
+      "common": "São Tomé and Príncipe"
+    },
+    {
+      "cca2": "TW",
+      "svg": "https://flagcdn.com/tw.svg",
+      "root": "+8",
+      "suffixes": [
+        "86"
+      ],
+      "common": "Taiwan"
+    },
+    {
+      "cca2": "TJ",
+      "svg": "https://flagcdn.com/tj.svg",
+      "root": "+9",
+      "suffixes": [
+        "92"
+      ],
+      "common": "Tajikistan"
+    },
+    {
+      "cca2": "TZ",
+      "svg": "https://flagcdn.com/tz.svg",
+      "root": "+2",
+      "suffixes": [
+        "55"
+      ],
+      "common": "Tanzania"
+    },
+    {
+      "cca2": "TH",
+      "svg": "https://flagcdn.com/th.svg",
+      "root": "+6",
+      "suffixes": [
+        "6"
+      ],
+      "common": "Thailand"
+    },
+    {
+      "cca2": "TL",
+      "svg": "https://flagcdn.com/tl.svg",
+      "root": "+6",
+      "suffixes": [
+        "70"
+      ],
+      "common": "Timor-Leste"
+    },
+    {
+      "cca2": "TG",
+      "svg": "https://flagcdn.com/tg.svg",
+      "root": "+2",
+      "suffixes": [
+        "28"
+      ],
+      "common": "Togo"
+    },
+    {
+      "cca2": "TK",
+      "svg": "https://flagcdn.com/tk.svg",
+      "root": "+6",
+      "suffixes": [
+        "90"
+      ],
+      "common": "Tokelau"
+    },
+    {
+      "cca2": "TO",
+      "svg": "https://flagcdn.com/to.svg",
+      "root": "+6",
+      "suffixes": [
+        "76"
+      ],
+      "common": "Tonga"
+    },
+    {
+      "cca2": "TT",
+      "svg": "https://flagcdn.com/tt.svg",
+      "root": "+1",
+      "suffixes": [
+        "868"
+      ],
+      "common": "Trinidad and Tobago"
+    },
+    {
+      "cca2": "TN",
+      "svg": "https://flagcdn.com/tn.svg",
+      "root": "+2",
+      "suffixes": [
+        "16"
+      ],
+      "common": "Tunisia"
+    },
+    {
+      "cca2": "TR",
+      "svg": "https://flagcdn.com/tr.svg",
+      "root": "+9",
+      "suffixes": [
+        "0"
+      ],
+      "common": "Turkey"
+    },
+    {
+      "cca2": "TM",
+      "svg": "https://flagcdn.com/tm.svg",
+      "root": "+9",
+      "suffixes": [
+        "93"
+      ],
+      "common": "Turkmenistan"
+    },
+    {
+      "cca2": "TC",
+      "svg": "https://flagcdn.com/tc.svg",
+      "root": "+1",
+      "suffixes": [
+        "649"
+      ],
+      "common": "Turks and Caicos Islands"
+    },
+    {
+      "cca2": "TV",
+      "svg": "https://flagcdn.com/tv.svg",
+      "root": "+6",
+      "suffixes": [
+        "88"
+      ],
+      "common": "Tuvalu"
+    },
+    {
+      "cca2": "UG",
+      "svg": "https://flagcdn.com/ug.svg",
+      "root": "+2",
+      "suffixes": [
+        "56"
+      ],
+      "common": "Uganda"
+    },
+    {
+      "cca2": "UA",
+      "svg": "https://flagcdn.com/ua.svg",
+      "root": "+3",
+      "suffixes": [
+        "80"
+      ],
+      "common": "Ukraine"
+    },
+    {
+      "cca2": "AE",
+      "svg": "https://flagcdn.com/ae.svg",
+      "root": "+9",
+      "suffixes": [
+        "71"
+      ],
+      "common": "United Arab Emirates"
+    },
+    {
+      "cca2": "GB",
+      "svg": "https://flagcdn.com/gb.svg",
+      "root": "+4",
+      "suffixes": [
+        "4"
+      ],
+      "common": "United Kingdom"
+    },
+    {
+      "cca2": "US",
+      "svg": "https://flagcdn.com/us.svg",
+      "root": "+1",
+      "suffixes": [
+        ""
+      ],
+      "common": "United States"
+    },
+    {
+      "cca2": "UM",
+      "svg": "https://flagcdn.com/um.svg",
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ],
+      "common": "United States Minor Outlying Islands"
+    },
+    {
+      "cca2": "VI",
+      "svg": "https://flagcdn.com/vi.svg",
+      "root": "+1",
+      "suffixes": [
+        "340"
+      ],
+      "common": "United States Virgin Islands"
+    },
+    {
+      "cca2": "UY",
+      "svg": "https://flagcdn.com/uy.svg",
+      "root": "+5",
+      "suffixes": [
+        "98"
+      ],
+      "common": "Uruguay"
+    },
+    {
+      "cca2": "UZ",
+      "svg": "https://flagcdn.com/uz.svg",
+      "root": "+9",
+      "suffixes": [
+        "98"
+      ],
+      "common": "Uzbekistan"
+    },
+    {
+      "cca2": "VU",
+      "svg": "https://flagcdn.com/vu.svg",
+      "root": "+6",
+      "suffixes": [
+        "78"
+      ],
+      "common": "Vanuatu"
+    },
+    {
+      "cca2": "VE",
+      "svg": "https://flagcdn.com/ve.svg",
+      "root": "+5",
+      "suffixes": [
+        "8"
+      ],
+      "common": "Venezuela"
+    },
+    {
+      "cca2": "VN",
+      "svg": "https://flagcdn.com/vn.svg",
+      "root": "+8",
+      "suffixes": [
+        "4"
+      ],
+      "common": "Vietnam"
+    },
+    {
+      "cca2": "WF",
+      "svg": "https://flagcdn.com/wf.svg",
+      "root": "+6",
+      "suffixes": [
+        "81"
+      ],
+      "common": "Wallis and Futuna"
+    },
+    {
+      "cca2": "YE",
+      "svg": "https://flagcdn.com/ye.svg",
+      "root": "+9",
+      "suffixes": [
+        "67"
+      ],
+      "common": "Yemen"
+    },
+    {
+      "cca2": "ZM",
+      "svg": "https://flagcdn.com/zm.svg",
+      "root": "+2",
+      "suffixes": [
+        "60"
+      ],
+      "common": "Zambia"
+    },
+    {
+      "cca2": "ZW",
+      "svg": "https://flagcdn.com/zw.svg",
+      "root": "+2",
+      "suffixes": [
+        "63"
+      ],
+      "common": "Zimbabwe"
+    }
+  ]

@@ -1,0 +1,435 @@
+#mobileshow { display:none; }
+@media only screen and (max-width: 768px) {
+/*BLOG & INSTA */
+.pad-right {padding-right: 4px !important;}
+.pad-left {padding-left: 4px !important;}
+.folded-col {width:50% !important;}
+.instagram-block .follow {float:left;}
+.letsfame-blog-items .title {height:75px;}
+.letsfame-blog-head h3 {line-height: 30px;}
+.instagram-block {margin-top: 30px;}
+.letsfame-blog-head {margin-top: 30px;}
+.letsfame-blog-container {background: linear-gradient(to top, #fff 78%, #EBEBEB 22%);}
+.letsfame-instagram-container {background: linear-gradient(to top, #fff 78%, #EBEBEB 22%);}
+.instagram-block .title {padding-left: 20px; font-size: 28px; line-height: 20px;}
+.instagram-block .sub-title {padding-left: 20px; line-height: 36px;}
+.instagram-block {padding:10px 0px;}
+.instagram-block .follow {display:none;}
+.instagram-block .m-follow {display:block; width:fit-content; background:#F2C05F; border-radius:26px; font-family: 'Montserrat SemiBold'; font-size:16px; line-height:24px; color:#000000; text-align:center; padding:7px 20px; margin:0 auto 20px auto;}
+/*------*/
+.mobile-ios-app {float:left; width:50%;}
+.mobile-android-app {float:left; width:50%;}
+.lets-main-title-h2 {font-size: 36px !important;}
+.lets-sub-title-h2 {font-size: 18px !important;}
+.big-mobile {display:block !important;}
+.three-mobile {display:block !important;}
+.big-mobile-desktop {display:none !important;}
+.three-mobile-desktop {display:none !important;}
+.mobile-signup {display:block !important;}
+.desktop-signup {display:none !important;}
+.new-banner .contents {top: 35% !important;}
+.lets-slider {width: 360px !important; height: 75px !important;}
+.animation-box {margin-top: 32px !important;}
+.letsfame-count-text {width:360px;}
+.letsfame-count-text h2 {font-size: 48px;}
+
+/*WHY USE LETSFAME START*/
+.how-its-blog-list .main-h2 {height:auto;}
+.how-its-blog-list .firstname, .how-its-blog-list .profession, .how-its-blog-list .date {padding:2px 12px;letter-spacing:0px;font-size:0.9rem;}
+.how-its-blog-list hr {margin:1.7rem 0;}
+.how-its-blog-view b.b { font-family:'Montserrat Medium' !important;}
+.how-its-blog-view .blog-list-item {min-height:fit-content;}
+/*WHY USE LETSFAME END*/
+
+.connection-count-grid {margin:0 auto;display:block;width:94%;background:#fff;position:fixed;top:54px;left:0;}
+.connection-search-input {margin:0 auto;display:block;width:100%;background:#fff;position:fixed;top:0;left:0;}
+.post-search-input { margin:0 auto;display:block;width:100%;background:#fff;position:fixed;top:0;left:0;}
+.new-banner .contents h1 {font-size:36px;}
+.new-banner .contents h6 {font-size:18px;}
+.search-input { width:100% }
+.post-container {width:100%}
+.connection-container {width:100%}
+.search-container {width:100%}
+.email-logo img {width:60%;}
+.port-arrow-left {width:5% !important;float:left !important;} 
+.port-arrow-center {width:78%!important;float:left !important;} 
+.post-icons-pos {margin-left:0 !important; }
+/* .port-arrow-video-center {width:51%!important; float:left!important;}  */
+.port-arrow-video-center {width:80%!important;float:left!important;}
+.modal-dialoge {position:absolute;top:50%;left:50%;width:70%;transform:translate(-50%, -50%);background-color:#fff;border-radius:5px;box-shadow:0 0 10px rgba(0, 0, 0, 0.2);}
+.prev-next-btn {position:absolute;width:inherit;top:50%;margin-left:-25px !important;}
+.post-prev-next-btn {position:absolute;width:inherit;top:50%;margin-left:-25px !important;}
+.modal-dialoge {width:80% !important}
+#mobileshow {display:block; }
+
+.hidden-mobile {display:none;}
+/* .hidden-desktop { display: block; } */
+
+.port-arrow-right {width:5%!important;float:right!important;} 
+.post-port-arrow-right {width:5%!important;float:right!important;} 
+
+#player {width:100%;height:auto;}
+.comment-image-bg {height:auto !important;}
+.comments-content {width:100% !important;}
+.com-form-item-left {width:78% !important;float:left;margin-top:5px;}
+.com-form-item-right {width:20% !important;float:right;margin-right:5px}
+#header {width:100%;}
+.imgwidth img {width:48%;}
+.navbar-mobile {width:100%;}
+#header .logo img {width:160px;padding:10px 0;}
+.navbar {padding:0;}
+.mob-form-image {display:none;}
+.banner-app img {max-width:140px;}
+.connect h2 {font:18px/18px 'Montserrat SemiBold';}
+.profile-plan {width:100%;min-height:678px;}
+.premium-plan {width:100%;}
+.banner {height:auto;margin-top:63px;} 
+.letsfame-img {max-width:100%;padding-top:0 !important;}
+.banner-content {text-align:center;position:relative;top:8%;}
+.banner-logo {width:200px;display:block;margin:0 auto;}
+.banner-content h2 {font:28px/40px 'Montserrat SemiBold',sans-serif;}
+.banner-content h2 {font:32px/40px 'Montserrat SemiBold',sans-serif;}
+.creative-studio {height:auto; border-bottom:2px solid #000 !important;}
+.creative-profile {border-top:2px solid #000 !important;}
+@media only screen and (max-width: 768px) {
+.lets-slider > .item .item-content {padding:0px !important;}
+.lets-slider h2 {font-size:40px !important;}
+.lets-slider p {font-size:14px;}
+.phoneapp {float:left;width:50%;}
+}
+.creative-content {font:38px/42px 'Montserrat SemiBold', sans-serif;width:100% !important;padding:0;}
+.all-creative {height:auto;padding:10px 0;}
+.platform h2 {font:24px/30px 'Montserrat SemiBold', sans-serif;}
+.platform-image {display:block;margin:auto;max-width:150px;}
+.gray {min-height:250px;justify-content:center;}
+.flow-grid h2 {font:28px/42px 'Montserrat SemiBold', sans-serif;}
+.platform .list p {font-size:15px;}
+.flow-grid-item {text-align:center;margin-top:0px;}
+.flow-grid-item img {max-width:50%;}
+.w3-row-padding img {height:auto;aspect-ratio:auto;}
+/*.profile-plan-content {bottom:5%;left: 2%;}*/
+.profile-plan-content {padding-bottom:50px;}
+.profile-plan-content h2 {font:32px/66px 'Montserrat SemiBold',sans-serif;color:000;}
+.profile-plan-content h5 {font:24px/32px 'Montserrat Medium',sans-serif;margin:0;color:#000;}
+.profile-plan-content p {font:16px/22px 'Montserrat Medium',sans-serif;color:#000;text-align:center;}
+.subscribe-btn {width:98%;}
+.footer-app {margin-left:0;}
+.footer-app img {margin-right:10px;max-width:95%;}
+.normal-btn {margin:auto;}
+.add-achievement {min-width:300px;}
+.planapps .access {position:inherit;bottom:0;left:0;right:0;}
+.aboutushero {background-size:cover;height:600px;margin-top:74px;width:100%;}
+.def-center {display:block;margin:50px auto;}
+#letspara p {font-size:18px;}
+.textendmedia, .textcentermedia, .textstartmedia{text-align:center;}
+.camera {min-height:300px;}
+.whorwe h4 {font-size:18px;line-height:1.4;}
+.qute {width:100%;}
+.joinpara {padding:10px;width:100%;}
+ /*-----Plan mobile version start---*/
+.pricing-lists {display:none !important;}
+.pricing-listsmobile {display:block;height:auto;overflow:hidden;width:100%;margin:20px auto;}
+ .pricing-listsmobile ul:last-child {border-bottom:none;}
+ .neline {list-style:none;font:18px/27px 'Montserrat Medium',san-serif;color:#000;margin-bottom:5px;padding:0 10px;}
+ .ulmob {height:40px;}
+ .ulmob li {font:14px/32px 'Montserrat Medium',san-serif;color:#000;width:100%;text-align:center;height:40px!important;line-height:30px!important;}
+ .ul-two:first-child {height:115px;text-align:center;}
+ .ul-two {width:100%;display:flex;justify-content:space-between;border-bottom:2px solid #f4f4f5;}
+ .pricing-listsmobile ul {list-style:none;padding:0;}
+  
+ .pricing-listsmobile ul li h3 {opacity:0;}
+ /*-----Plan mobile version end---*/
+.pricing-lists ul li { line-height:18px;padding:5px;height:90px; }
+.platform-btn{font: 14px/32px 'Montserrat SemiBold'; }
+.plan h4 { font: 16px/30px 'Montserrat SemiBold';color:#000;line-height:20px;}
+.plan h5 {font: 12px/22px 'Montserrat Medium';}
+.plan p {font: 14px/22px 'Montserrat Medium',sans-serif; padding-bottom:10px;}
+.price-btn {font: 12px/20px 'Montserrat SemiBold',sans-serif;
+padding: 4px 6px; text-transform:uppercase;}
+.profile-view-icon-popup {right:0px;}
+.default-container {margin-top:30px;}
+#letspara {text-align:justify;padding:40px 10px;}
+#letspara p {line-height:30px;}
+.camera h2 {text-align:justify;font:22px/42px 'Montserrat SemiBold',sans-serif;}
+.abovepara h1 {font:28px/42px 'Montserrat SemiBold',sans-serif;width:100%;}
+.whorwe p {font:18px/32px 'Montserrat SemiBold',sans-serif;text-align:justify;}
+.whorwe h1 {font:32px/42px 'Montserrat SemiBold',sans-serif; }
+.joinpara h2 {font:16px/28px 'Montserrat SemiBold',sans-serif;}
+.plans_desk {display:none;}
+.plans_mob {display:block;}
+.planapps {margin-top:47px;}
+.mob-tt {margin-top:10px;}
+.portfolio-item {line-height:100px;border-radius:50%;margin:auto;width:150px;}
+.profile-picture-change {left:30%;}
+.platform-btn {width:220px;display:block;margin:auto;}
+.news-content p {text-align:justify;}
+.fifty {width:50%;flex:inherit;}
+.imagess {height:620px !important;}
+.signup-details {width:85%;margin:0 auto;}
+.profile-setup-header {padding:10px 0;}
+.mobile-menu-icons {padding:10px 0;}
+.profile-page-logo img {padding-top:10px;}
+.profile-container {margin-top:125px;}
+.qrcode-container {margin-top:125px;}
+.profile-container-home {margin-top:125px;}
+.how-its-about iframe {  border:0;height:250px;}
+.mbl-w-20{ width:20% !important;}
+.mbl-w-80{ width:80% !important;}
+}
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1366px) {
+.banner-content {top:5%;}	
+.banner-content h2 {font:24px/32px 'Montserrat SemiBold',sans-serif !important;}
+.letsfame-img {max-width:100%;}
+.creative-studio {height:auto;}
+.creative-content {width:75%;}
+.pre {top:0px;right:12px;}
+.plan p { font:12px/22px 'Montserrat Medium',sans-serif;}
+.banner {height:auto;}
+.portfolio-item {line-height:100px;}
+.suggestion-fixed-top {position:fixed;width:380px;}
+.premium-fixed-top {position:fixed;width:370px;} 
+.profile-plan-content {top:72% !important;}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+.tab-d-no{display: none !important;}
+.tab-d-blk{display: block;line-height: 18px;}
+.tab-d-blk small{font-size: 18px !important;} 
+/*.tag-main-border{display: none;}*/
+.how-its-blog-view .tag-main-border li{ display: ruby-text; overflow: hidden; float:left;}
+ 
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 991px) { 
+        .qrcode-container .col-md-8, .border-conn-r.mt-conn-6 .col-md-6 {width: 100% !important;}
+
+}
+
+@media only screen and (max-width: 1920px) {
+.imagess {height:1440px !important;}
+.suggestion-fixed-top {position:fixed;width:410px;}
+.premium-fixed-top {position:fixed;width:410px;}
+}
+@media only screen and (max-width: 1680px) {
+.imagess {height:1260px !important;}
+}
+@media only screen and (max-width: 1440px) {
+.imagess {height:1100px !important;}
+.suggestion-fixed-top {position:fixed;width:410px;}
+.premium-fixed-top {position:fixed;width:311px;}
+}
+@media only screen and (max-width: 1024px) {
+.imagess {height:750px !important;}
+.suggestion-fixed-top {position:fixed;width:300px;}
+.premium-fixed-top {position:fixed;width:300px;}
+.banner-content h2 {font:24px/32px 'Montserrat SemiBold',sans-serif;}
+.banner-content {top:5%;}
+}
+@media only screen and (max-width: 600px) {
+  .mbl-w-50{width:50% !important;}
+.imagess {height:auto !important;}
+.suggestion-fixed-top {position:inherit;width:auto;}
+.premium-fixed-top {position:inherit;width:auto;}
+.suggestions-reference { margin-top:0 !important;}
+.mbl-sugg{position:inherit !important;bottom:60px !important;padding:15px 0;}
+  .new-banner .contentw-100-scroll {bottom:10% !important;}
+    .mbl-txt-clr { -webkit-animation:colorchange 20s !important;}
+  .h-100vh { width:100%;object-fit:cover;}
+
+}
+@media only screen and (max-width: 480px) {
+.imagess {position:relative;margin:0;height:auto !important;top:0 !important;}
+.qute h1 {font:21px/32px 'montserrat_semibold',sans-serif;}
+.suggestion-fixed-top {position:relative;width:auto;}
+.premium-fixed-top {position:relative;width:auto;}
+}
+@media only screen and (max-width:420px) {
+#imageapp {background-size:cover !important;}
+.suggestion-fixed-top {position:relative;width:auto;}
+.premium-fixed-top {position:relative;width:auto;}
+.premium-plam-mbl {margin-bottom:52px;}
+.letsfame-blog-head h4 {font-size: 18px;}
+}
+@media only screen and (max-width: 375px) {
+.imagess {height:450px !important;}
+.suggestion-fixed-top {position:relative;width:auto;}
+.premium-fixed-top {position:relative;width:auto;}
+.letsfame-blog-head h4 {font-size: 16px;}
+}
+ 
+
+
+@media only screen and (min-width:768px) and (max-width:800px){
+.platform-image {margin-top:150px;} 
+.price-btn {margin-left:20px;}
+.profile-plan {min-height:820px;}
+.big-mobile {display:none !important;}
+.big-mobile-desktop {display:block !important;}
+.imagess {height:610px !important;}
+.creative-content {display:block;font-size:48px;line-height:50px;}
+.how-its-about h1 pre {font-size:2.8rem !important;}
+.ipad-center {position:relative;top:50%;left:50%;margin-right:-50%;height:fit-content; width:100%;}
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1025px){
+.profile-plan {width:100%;}
+.premium-plan {width:100%;}   
+.connect h2 {font:28px/28px'Montserrat SemiBold';}
+.planapps .access {bottom:5%;}
+}
+
+@media only screen and (min-width: 601px) and (max-width: 990px){
+  .new-banner{height:unset !important;}
+  .new-banner .contents { width:95% !important;}
+  .featured-slider.mbl-d-b{display:block;}
+  .tab-d-n{display:none !important;}
+  .tab-d-b{display:block !important;}
+  .mbl-w-100{width:100%;}
+  .h-100vh {height:100vh;object-fit:cover;width:100%;} 
+  .new-banner .contents {top:35% !important;}
+
+
+
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1180px){
+  .new-banner{height:unset !important;}
+  .new-banner .contents {width:70% !important;}
+
+}
+
+@media only screen and (min-width: 1181px) and (max-width: 1279px){
+  .new-banner{height:unset !important;}
+  .new-banner .contents { width:55% !important;}
+
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1350px){
+  .new-banner{height:unset !important;}
+  .new-banner .contents { width:57% !important;transform:translate(0%, -50%) !important; }
+  .new-banner .contents .lets-sub-title-h2 {font-size:17px;}
+  
+}
+@media only screen and (min-width: 1351px) and (max-width: 1450px){
+  .new-banner{height:unset !important;}
+  .new-banner .contents { width:51% !important;transform:translate(0%, -52%);}
+  .new-banner .contents .lets-sub-title-h2 {font-size:17px;}
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.creative-content {display:block;font-size:48px;line-height:50px;width: 90% !important;}
+  .imagess{ height: 660px !important;}
+ 
+.banner-content {top:0;}  
+.banner {height:auto;padding-bottom:70px;}
+.profile-plan {width:100%;}
+.premium-plan {width:100%;}
+.phoneapp {float:left;width:45%;margin-right:10px;}
+.connect h2 {font:18px/32px 'Montserrat SemiBold';color:#fff;}
+.planapps {min-height:500px;}
+.planapps .access {bottom:0%;}
+.mob-form-image {display:none;}
+.tab-form-width {width:100%;}
+.suggestion-fixed-top {position:relative;width:auto;}
+.premium-fixed-top {position:relative;width:auto;}
+}
+
+@media only screen and (max-width: 1024px) {
+.tag-main-border {float: left; width: 100%;}
+}
+
+@media only screen and (max-width: 884px) {
+.mb175 {margin-bottom:175px !important;}
+.mt125 {margin-top:125px !important;}
+}
+
+@media screen and (max-width: 1366px), 
+       screen and (max-height: 1024px) {
+.new-banner {
+  height: 100% !important;
+} 
+.new-banner video {
+  background-color:#000000 !important;
+  height:100%  !important;
+}
+}
+
+@media only screen and (max-width: 760px) {
+  .new-banner .contents {
+    top: 40% !important;
+  }	
+  .tab-d-n{display:block !important;}
+  .tab-d-b{display:none !important;}
+   .new-banner {
+    height: 100vh !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .tab-d-n{display:none !important;}
+  .tab-d-b{display:block !important;}
+    .new-banner {
+    height: 100vh !important;
+  }
+}
+
+@media only screen and (min-width: 717px) and (max-width: 766px) {
+  .new-banner .contents {
+    top: 50% !important;
+  }	
+   .container, .container-sm {
+    max-width: none;
+  }
+  .letsfame-blog-items img {
+    width: 100%;
+    height: fit-content;
+    object-fit: fill;
+    border-radius: 5px;
+    position: inherit;
+}
+
+.folded-col {width:50% !important;}
+}
+
+@media only screen and (max-width: 280px) {
+  .profile-plan-content {
+  top: 75%;
+}
+  .ul-two:first-child {
+    height: 190px !important;
+    text-align: center;
+  }
+  .letsfame-blog-head h4 {
+    font-size: 15px;
+    line-height: 19px;
+}
+
+}
+
+@media only screen and (min-width: 1080px) and (max-width: 1081px) {
+	.pricing-lists ul li:first-child {
+  min-height: 150px !important;
+}
+.plan h5 {
+  font: 10px/20px 'Montserrat Medium' !important;
+}
+}
+
+@media only screen and (min-width: 1180px) and (max-width: 1181px) {
+	.pricing-lists ul li:first-child {
+  min-height: 160px !important;
+}
+.plan h5 {
+  font: 11px/22px 'Montserrat Medium' !important;
+}
+}
+
+@media only screen and (max-width: 280px) {
+.new-banner .signup {width:90% !important;}
+.let-slider > .item {width:100% !important;}
+}

@@ -1,0 +1,92 @@
+.patient-id{
+	padding: 5px 15px;
+    background:#eee ;
+    border-radius: 3px; 
+    color: #0eaeee;
+}
+.sub-pb-1{padding-bottom:0.6rem;}
+.btn-info {
+    color: rgb(0, 0, 0);
+    background-color: #D49A5B !important;
+    border-color: #D49A5B !important;
+}
+.btn-info:hover {
+    color: #000000 !important;
+    background-color: rgb(255, 255, 255) !important;
+    border-color: #000000 !important;
+}
+.text-success{color:#0eaeee !important;}
+ .form-material .form-control.patient-id{
+    background-image: linear-gradient(#0eaeee,#0eaeee),linear-gradient(#0eaeee,#0eaeee); 
+    background-size: 0 2px,100% 1px;
+    border-radius: 0;
+    box-shadow: none;
+    float: none;
+    color: #0eaeee; 
+    text-align: left;
+    font-weight: 400;
+    font-size: 15px;
+          
+}
+textarea{border: 1px solid #e9ecef !important;border-radius:4px !important;}
+.btn:hover, .btn:focus{box-shadow: none !important;}
+ 
+.form-select:focus{border-color:rgba(0,0,0,.1);outline:0;box-shadow:0 0 0 .125rem #0eaeee;}
+.card-body-hover { 
+    padding: 3.25rem 1.25rem;
+    border: 1px solid transparent;
+    border-radius: 3px;
+}
+.card-body-hover:hover { 
+    border: 1px solid #0eaeee; 
+}
+.text-black{color: #000}
+.label-action {
+    background-color: #0eaeee
+}
+
+.table-bg-primary{background-color:#f8fcff !important;}
+.table-striped>tbody>tr:nth-of-type(odd){
+    background: #fff !important;
+    --bs-table-accent-bg: rgb(255 255 255 / 100%);
+}
+.fw-bold2{font-weight: 500 !important;}
+.table-striped thead{background-color: #f8fcff !important;}
+
+/* may-26 */
+.text-themecolor{    font-weight: 400;font-size: 1.4rem;
+    color: #D49A5B !important;}
+.page-titles img{width: 30px !important;padding-top: 0px !important;}
+.btn-info:hover{border: 1px solid #D49A5B !important;color: #D49A5B !important;}
+h4.card-title{font-size: 1rem;} 
+.modal-header {background: rgb(26 122 76 / 10%);}
+h5.text-themecolor {
+    font-weight: 500;
+    font-size: 1.15rem;
+    color: #D49A5B!important;
+}
+.text-active{color: #D49A5B !important;font-weight:500; }
+.text-inactive{color: #e46a76 !important;font-weight:500; }
+.fs-1{font-size: 1rem !important;}
+.table-bg-info {background-color: rgba(219, 182, 70, 0.1) !important;}
+th,td{border: 1px solid #ccc !important; }
+footer a{color: #D49A5B !important;font-weight: 500;} 
+.list-img{ max-width: 100px !important;
+    max-height: 50px !important;
+}
+.skin-megna .topbar {
+  background: #000000 !important;
+}
+ .form-material .form-control, .form-material .form-control.focus, .form-material .form-control:focus {
+  background-image: linear-gradient(#D49A5B,#D49A5B),linear-gradient(#e9ecef,#e9ecef) !important;}
+  .skin-blue .sidebar-nav>ul>li.active>a {
+    background: #D49A5B1a !important;
+    color: #D49A5B !important;
+    border-left: 3px solid #D49A5B !important;
+}
+.url-decoration a{text-decoration: underline !important;}
+.url-decoration a:hover{text-decoration: none !important;}
+.bootstrap-select .dropdown-menu li a:focus, .bootstrap-select .dropdown-menu li a:hover {
+    color: #D49A5B !important;
+    background: #e8f1ed !important;
+}

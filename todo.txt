@@ -1,0 +1,29 @@
+
+1. List artists screen
+    Load profession dynamically in the tab
+    Search Artist based on name
+    Load artists list based on selected tab
+
+2. View Artist Profile
+    Bind inputs
+    1. Basic Info:
+        profile image
+        banner image
+        name,
+        profession
+        country
+        state
+        city
+        no of connections
+    2. biography/ about
+    3. Skills/ Reach out
+    4. Social Media Urls:
+        Instagram
+        Youtube
+        Twitter
+    5. Posts: 
+        Images/ Videos
+    6. Contact info:
+        Letsfame public url
+        Email
+        Mobile No.(with Country Code)

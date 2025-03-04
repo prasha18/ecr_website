@@ -1,0 +1,94 @@
+.how-its-faq .accordion-item {
+  background-color: #fff !important;
+  border: 1px solid #efefef !important;
+  margin: 16px 0 !important;
+  border-radius: 7px !important;
+}
+
+.how-its-faq .button:not(.collapsed) {
+  color: #000000;
+  background-color: #f3c060;
+  border-radius: 7px !important;
+}
+
+.how-its-faq .accordion-item .accordion-button:focus {
+  box-shadow: none !important;
+}
+
+.how-its-faq .button {
+  color: #000000;
+  background-color: #f3c060;
+  border-radius: 7px !important;
+}
+
+.how-its-faq .accordion-item .accordion-button {
+  border-radius: 7px !important;
+  font-size: 1.1rem !important;
+}
+
+.how-its-faq .accordion-button:not(.collapsed) {
+  color: #D49A5B !important;
+  background-color: #ffffff !important;
+  box-shadow: none !important;
+}
+
+.how-its-faq .accordion-button {
+  color: #3F3F3F;
+}
+
+.how-its-faq .accordion-button {
+  padding: 1.3rem 2rem !important;
+}
+
+.how-its-faq .accordion-body {
+  padding: 0rem 2rem 2.5rem;
+  font-size: 1rem !important;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.accordion-button:not(.collapsed)::after {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.how-its-faq .txt-small-p {
+  color: #000;
+  font: 16px/30px 'Montserrat Semibold', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.how-its-faq .a {
+  color: #f3c060;
+}
+
+.how-its-faq .txt-clr {
+  color: #D49A5B;
+}
+
+.how-its-faq .a:hover {
+  text-decoration: underline;
+}
+
+.how-its-faq .main-h1 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width:600px) {
+  .how-its-faq .accordion-item .accordion-button {
+    font-size: 1.1rem !important;
+  }
+
+  .how-its-faq .accordion-body {
+    font-size: 0.8rem !important;
+    line-height: 1.5;
+  }
+
+  .how-its-faq .main-h1 {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+
+}
