@@ -1,0 +1,52 @@
+name: Build and Push Docker Image to ECR
+
+on:
+  push:
+    branches:
+      - dev-cicd 
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    environment: DEV-CICD # Using environment secrets
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Log in to Amazon ECR
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+        run: |
+          aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID
+          aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY
+          aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin ${{ secrets.AWS_ECR_REPOSITORY }}
+
+      - name: Build Docker image for PHP website
+        run: |
+          docker build -t php-website:latest .
+
+      - name: Tag Docker image for ECR
+        run: |
+          docker tag php-website:latest ${{ secrets.AWS_ECR_REPOSITORY }}
+
+      - name: Push Docker image to ECR
+        run: |
+          docker push ${{ secrets.AWS_ECR_REPOSITORY }}
+          
+      - name: Update ECS service to deploy new task definition
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+        run: |
+          aws ecs update-service \
+            --cluster ${{ secrets.AWS_ECS_CLUSTER_NAME }} \
+            --service ${{ secrets.AWS_SERVICE }} \
+            --force-new-deployment \
+            --region $AWS_REGION \
+            --deployment-configuration minimumHealthyPercent=50,maximumPercent=200 \
+            --health-check-grace-period-seconds 180
