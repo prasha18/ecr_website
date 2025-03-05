@@ -27,11 +27,11 @@ jobs:
 
       - name: Build Docker image for PHP website
         run: |
-          docker build -t php-website:latest .
+          docker build -t php-apache-app:latest .
 
       - name: Tag Docker image for ECR
         run: |
-          docker tag php-website:latest ${{ secrets.AWS_ECR_REPOSITORY }}
+          docker tag php-apache-app:latest ${{ secrets.AWS_ECR_REPOSITORY }}
 
       - name: Push Docker image to ECR
         run: |
