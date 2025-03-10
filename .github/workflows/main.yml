@@ -31,7 +31,7 @@ jobs:
 
       - name: Tag Docker image for ECR
         run: |
-          docker tag php-apache-app:latest ${{ secrets.AWS_ECR_REPOSITORY }}
+          docker tag cicd-repository:latest ${{ secrets.AWS_ECR_REPOSITORY }}
 
       - name: Push Docker image to ECR
         run: |
