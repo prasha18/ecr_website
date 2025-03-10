@@ -27,7 +27,7 @@ jobs:
 
       - name: Build Docker image for PHP website
         run: |
-          docker build -t php-apache-app:latest .
+          docker build -t cicd-repository:latest .
 
       - name: Tag Docker image for ECR
         run: |
