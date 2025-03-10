@@ -3,7 +3,7 @@
 // ini_set('display_errors', 1);
 
 // $localhost = "13.127.148.211";
-$localhost = "13.235.174.62";
+$localhost = "13.235.174.61";
 $username = "letsfame";
 $password = "Letsfame@123#123";
 $dbname = "letsfameblog";
