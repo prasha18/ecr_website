@@ -23,6 +23,10 @@ COPY 000-default.conf /etc/apache2/sites-enabled/
 RUN chown -R www-data:www-data /var/www/html \
     && chmod -R 755 /var/www/html
 
+# Add Listen directives for ports 90 and 70
+RUN echo "Listen 90" >> /etc/apache2/ports.conf && \
+    echo "Listen 70" >> /etc/apache2/ports.conf
+
 # Expose Apache port
 EXPOSE 90
 
