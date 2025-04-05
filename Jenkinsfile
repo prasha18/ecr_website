@@ -19,10 +19,15 @@ pipeline {
 
         stage('Login to ECR') {
             steps {
-                script {
-                    sh """
-                    aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com
-                    """
+                withCredentials([[
+                    $class: 'AmazonWebServicesCredentialsBinding',
+                    credentialsId: '2cfed381-ece3-4474-839c-c5847b93d8f0'
+                ]]) {
+                    script {
+                        sh """
+                        aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com
+                        """
+                    }
                 }
             }
         }
@@ -38,14 +43,19 @@ pipeline {
 
         stage('Deploy to ECS') {
             steps {
-                script {
-                    sh """
-                    aws ecs update-service \
-                        --cluster jenkins_cluster \
-                        --service jenkins-service \
-                        --force-new-deployment \
-                        --region $AWS_REGION
-                    """
+                withCredentials([[
+                    $class: 'AmazonWebServicesCredentialsBinding',
+                    credentialsId: 'aws-credentials'
+                ]]) {
+                    script {
+                        sh """
+                        aws ecs update-service \
+                            --cluster jenkins_cluster \
+                            --service jenkins-service \
+                            --force-new-deployment \
+                            --region $AWS_REGION
+                        """
+                    }
                 }
             }
         }
