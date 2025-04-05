@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git credentialsId: 'github-creds', url: 'https://github.com/prasha18/ecr_website.git'
+                git credentialsId: 'e0039d9a-9a0b-4362-9980-2abfb5929c9e', url: 'https://github.com/prasha18/ecr_website.git'
             }
         }
 
