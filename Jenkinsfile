@@ -5,7 +5,7 @@ pipeline {
         AWS_REGION = 'ap-south-1'
         AWS_ACCOUNT_ID = '471112599219'
         REPO_NAME = 'jenkins-ci-cd'
-        IMAGE_TAG = "${env.BUILD_NUMBER}"
+        IMAGE_TAG = "latest"
     }
 
     stages {
