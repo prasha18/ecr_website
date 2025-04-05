@@ -7,7 +7,7 @@ pipeline {
         IMAGE_TAG = "${env.BUILD_NUMBER}"
     }
 
-
+    stages {
         stage('Build Docker Image') {
             steps {
                 script {
@@ -57,5 +57,6 @@ pipeline {
         failure {
             echo "Deployment failed!"
         }
-    
+    }
+}
 
