@@ -3,6 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = 'ap-south-1'
+        AWS_ACCOUNT_ID = '471112599219'
         REPO_NAME = 'jenkins-ci-cd'
         IMAGE_TAG = "${env.BUILD_NUMBER}"
     }
@@ -20,7 +21,7 @@ pipeline {
             steps {
                 script {
                     sh """
-                    aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin <471112599219>.dkr.ecr.$AWS_REGION.amazonaws.com
+                    aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com
                     """
                 }
             }
@@ -29,8 +30,8 @@ pipeline {
         stage('Push Docker Image to ECR') {
             steps {
                 script {
-                    sh "docker tag ${REPO_NAME}:${IMAGE_TAG} <471112599219>.dkr.ecr.$AWS_REGION.amazonaws.com/${REPO_NAME}:${IMAGE_TAG}"
-                    sh "docker push <471112599219>.dkr.ecr.$AWS_REGION.amazonaws.com/${REPO_NAME}:${IMAGE_TAG}"
+                    sh "docker tag ${REPO_NAME}:${IMAGE_TAG} ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/${REPO_NAME}:${IMAGE_TAG}"
+                    sh "docker push ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/${REPO_NAME}:${IMAGE_TAG}"
                 }
             }
         }
