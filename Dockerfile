@@ -28,7 +28,7 @@ RUN echo "Listen 90" >> /etc/apache2/ports.conf && \
     echo "Listen 100" >> /etc/apache2/ports.conf
 
 # Expose Apache port
-EXPOSE 90
+EXPOSE 80
 
 # Start Apache in the foreground
 CMD ["apache2-foreground"]
