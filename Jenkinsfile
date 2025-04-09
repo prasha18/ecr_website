@@ -50,7 +50,7 @@ pipeline {
                     script {
                         sh """
                         aws ecs update-service \
-                            --cluster jenkins_cluster \
+                            --cluster jenkins-cluster \
                             --service jenkins-service \
                             --force-new-deployment \
                             --region $AWS_REGION
