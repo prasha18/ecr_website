@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = 'ap-south-1'
-        AWS_ACCOUNT_ID = '471112599219'
+        AWS_ACCOUNT_ID = '229303857031'
         REPO_NAME = 'jenkins-ci-cd'
         IMAGE_TAG = "latest"
     }
@@ -21,7 +21,7 @@ pipeline {
             steps {
                 withCredentials([[
                     $class: 'AmazonWebServicesCredentialsBinding',
-                    credentialsId: '2cfed381-ece3-4474-839c-c5847b93d8f0'
+                    credentialsId: 'aws-ecs-creds'
                 ]]) {
                     script {
                         sh """
@@ -45,7 +45,7 @@ pipeline {
             steps {
                 withCredentials([[
                     $class: 'AmazonWebServicesCredentialsBinding',
-                    credentialsId: '2cfed381-ece3-4474-839c-c5847b93d8f0'
+                    credentialsId: 'aws-ecs-creds'
                 ]]) {
                     script {
                         sh """
