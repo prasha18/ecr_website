@@ -13,7 +13,7 @@
 				<div class="collapse navbar-collapse" id="collapsibleNavbar">
 					<ul class="navbar-nav ms-auto">
 						<li class="nav-item pt-2">
-							<a href="http://karupa.shajaw350.world/" class="nav-link">Home</a>
+							<a href="https:/www.letsfame.com//" class="nav-link">Home</a>
 						</li>
 						<li class="nav-item pt-2">
 							<a href="aboutus" class="nav-link">About Us</a>
