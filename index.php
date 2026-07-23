@@ -19,13 +19,13 @@
 	<meta name="robots" content="index, follow" />
 	<meta property='og:description'
 	content='World’s 1st professional networking & talent hiring app for media & entertainment. Find Cinema Jobs, Film Industry jobs, Connect directly with filmmakers and much more!'/>
-	<meta property='og:url' content='https://www.letsfame.com/' />
+	<meta property='og:url' content='https://www.youtube.com/' />
 	<meta property="og:image:type" content="image/png">
 	<meta property="og:image:width" content="1024">
 	<meta property="og:image:height" content="1024">
 	<meta property="og:type" content='website' />
-	<link rel="canonical" href="https://www.adminletsfame.com/">
-	<link rel="alternate" href="https://www.letsfame.com/" hreflang="en-us">
+	<link rel="canonical" href="https://www.youtube.com/">
+	<link rel="alternate" href="https://www.youtube.com/" hreflang="en-us">
 	<link type="text/css" href="assets/css/bootstrap.min.css" rel="stylesheet"><!-- Bootstrap CSS -->
 	<link type="text/css" href="assets/css/style.css" rel="stylesheet"><!-- Style CSS -->
 	<link type="text/css" href="assets/css/step.css" rel="stylesheet"><!-- Style CSS -->
