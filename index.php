@@ -77,7 +77,7 @@
 			"@context": "https://schema.org",
 			"@type": "EntertainmentBusiness",
 			"name": "LetsFame",
-			"image": "https://letsfame.com/assets/img/phone5.webp",
+			"image": "https://www.facebook.com/assets/img/phone5.webp",
 			"@id": "cinema jobs, film industry jobs",
 			"url": "index",
 			"telephone": "",
