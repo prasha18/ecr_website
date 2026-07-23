@@ -24,7 +24,7 @@
 	<meta property="og:image:width" content="1024">
 	<meta property="og:image:height" content="1024">
 	<meta property="og:type" content='website' />
-	<link rel="canonical" href="https://www.letsfame.com/">
+	<link rel="canonical" href="https://www.adminletsfame.com/">
 	<link rel="alternate" href="https://www.letsfame.com/" hreflang="en-us">
 	<link type="text/css" href="assets/css/bootstrap.min.css" rel="stylesheet"><!-- Bootstrap CSS -->
 	<link type="text/css" href="assets/css/style.css" rel="stylesheet"><!-- Style CSS -->
